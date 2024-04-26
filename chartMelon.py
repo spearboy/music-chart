@@ -4,7 +4,8 @@ import pandas as pd
 import datetime
 
 current_date = datetime.datetime.now().strftime("%Y-%m-%d")
-res = req.get("https://www.melon.com/chart/index.htm")
+head = {'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'}
+res = req.get("https://www.melon.com/chart/index.htm",headers=head)
 soup = bs(res.text, "lxml")
 
 # 데이터 선택
