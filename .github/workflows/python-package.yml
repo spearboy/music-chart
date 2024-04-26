@@ -5,7 +5,7 @@ name: Python package
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main" ] 
   pull_request:
     branches: [ "main" ]
   schedule:
@@ -42,7 +42,7 @@ jobs:
       run: |
         git config --global user.email "tsagaanaa123@gmail.com"
         git config --global user.name "spearboy"
-        git add bugsChart100.json
+        git add bugsChart100_*.json  # 와일드카드 사용
         git commit -m "벅스뮤직 챠트데이터 수집"
 
     - name: push
