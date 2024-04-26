@@ -47,4 +47,5 @@ chart_df = pd.DataFrame({
     'Artist' : artistList
 })
 
-chart_df.to_json("bugsChart100.json", force_ascii=False, orient="records")
+file_name = f"bugsChart100_{current_date}.json"
+chart_df.to_json(file_name, force_ascii=False, orient="records")
