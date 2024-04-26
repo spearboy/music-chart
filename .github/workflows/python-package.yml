@@ -36,7 +36,8 @@ jobs:
        
     - name: run my file
       run: |
-        python3 chart.py
+        python3 chartBugs.py
+        python3 chartMelon.py
 
     - name: commits
       run: |
