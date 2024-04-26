@@ -2,6 +2,7 @@ import requests as req
 from bs4 import BeautifulSoup as bs
 import pandas as pd
 
+current_date = datetime.datetime.now().strftime("%Y-%m-%d")
 res = req.get("https://music.bugs.co.kr/chart")
 
 # print(res.text)
