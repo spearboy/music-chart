@@ -44,6 +44,7 @@ jobs:
         git config --global user.email "tsagaanaa123@gmail.com"
         git config --global user.name "spearboy"
         git add bugsChart100_*.json
+        git add melonChart100_*.json
         git commit -m "벅스뮤직 챠트데이터 수집"
 
     - name: push
