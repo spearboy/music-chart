@@ -25,5 +25,6 @@ chart_df = pd.DataFrame({
 })
 
 # JSON 파일로 저장
-file_name = f"bugsChart100_{current_date}.json"
+folder_path = "bugsMusic"
+file_name = f"{folder_path}/bugsChart100_{current_date}.json"
 chart_df.to_json(file_name, force_ascii=False, orient="records")

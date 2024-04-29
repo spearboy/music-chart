@@ -33,11 +33,15 @@ jobs:
         pip install beautifulsoup4
         pip install lxml
         pip install pandas
+        pip install webdriver_manager
        
     - name: run my file
       run: |
         python3 chartBugs.py
         python3 chartMelon.py
+        python3 chartApple.py
+        python3 chartFlo.py
+        python3 chartGenie.py
 
     - name: commits
       run: |

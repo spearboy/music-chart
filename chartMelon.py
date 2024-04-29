@@ -26,5 +26,6 @@ chart_df = pd.DataFrame({
 })
 
 # JSON 파일로 저장
-file_name = f"melonChart100_{current_date}.json"
+folder_path = "melonMusic"
+file_name = f"{folder_path}/melonChart100_{current_date}.json"
 chart_df.to_json(file_name, force_ascii=False, orient="records")
