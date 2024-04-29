@@ -49,7 +49,10 @@ jobs:
         git config --global user.name "spearboy"
         git add bugsChart100_*.json
         git add melonChart100_*.json
-        git commit -m "벅스뮤직&멜론 탑100 차트 데이터"
+        git add appleChart100_*.json
+        git add floChart100_*.json
+        git add genieChart100_*.json
+        git commit -m "음악 탑100 차트 데이터"
 
     - name: push
       uses: ad-m/github-push-action@master
