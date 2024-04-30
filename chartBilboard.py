@@ -40,7 +40,7 @@ for ranking, title, artist, image_url in zip(rankings, titles, artists, images):
     })
 
 # 파일 이름 설정
-file_name = f"billMusic/billboard100_{current_date}.json"
+file_name = f"billMusic/billboardChart100_{current_date}.json"
 
 # JSON 파일로 저장
 with open(file_name, 'w', encoding='utf-8') as file:
