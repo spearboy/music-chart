@@ -44,6 +44,7 @@ jobs:
         python3 chartApple.py
         python3 chartFlo.py
         python3 chartGenie.py
+        python3 chartBilboard.py
 
     - name: commits
       run: |
@@ -54,6 +55,7 @@ jobs:
         git add appleMusic/appleChart100_*.json
         git add floMusic/floChart100_*.json
         git add genieMusic/genieChart100_*.json
+        git add billMusic/billboardChart100_*.json
         git commit -m "음악 탑100 차트 데이터"
 
     - name: push
