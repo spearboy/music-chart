@@ -1,0 +1,702 @@
+[
+    {
+        "ranking": "1",
+        "title": "APT.",
+        "artist": "APT.",
+        "album": "로제",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d8/3c/e4/d83ce45f-3d8c-ba71-aaec-a98e8eeabe7d/075679628138_cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "2",
+        "title": "Whiplash",
+        "artist": "Whiplash",
+        "album": "aespa",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/26/5d/1a265da7-ff45-8df0-ee94-7b79becfc7d9/888735949562.png/80x80bb.webp"
+    },
+    {
+        "ranking": "3",
+        "title": "Mantra",
+        "artist": "Mantra",
+        "album": "제니",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4a/97/ed/4a97edf1-03f3-40c0-c2ce-f5eaaa77f179/cover_KM0020452_1.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "4",
+        "title": "UP (KARINA Solo)",
+        "artist": "UP (KARINA Solo)",
+        "album": "aespa",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/85/0e/fd850e67-f6e2-c4e9-6ea5-501ca5afccbd/aespa_DS_Synk-PARALLEL_LINE_DC.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "5",
+        "title": "Cherish (My Love)",
+        "artist": "Cherish (My Love)",
+        "album": "아일릿",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/20/73/e9207332-1b22-18d0-5d1b-daaf370a4317/198704136962_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "6",
+        "title": "HAPPY",
+        "artist": "HAPPY",
+        "album": "데이식스",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/42/fb/af/42fbaf16-efe2-4e1f-2e5e-bb42c2bdc281/DAY6_Fourever_Online_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "7",
+        "title": "Supersonic",
+        "artist": "Supersonic",
+        "album": "fromis_9",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c9/05/b0/c905b007-01a2-3f53-32e3-f30e5593ff24/198704060052_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "8",
+        "title": "Drowning",
+        "artist": "Drowning",
+        "album": "WOODZ",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/91/0d/07910df6-5ab5-0867-3be5-900cf9d11018/cover_KM0016894_1.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "9",
+        "title": "내 이름 맑음",
+        "artist": "내 이름 맑음",
+        "album": "QWER",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/15/00/62/150062e8-fd58-5dc2-bfea-f0e502e0957a/cover_KM0020310_1.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "10",
+        "title": "Steady",
+        "artist": "Steady",
+        "album": "NCT WISH",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/6f/ba/b96fba14-1aab-ce7b-5dd9-5f50fdd33dff/dj.lejatqhp.png/80x80bb.webp"
+    },
+    {
+        "ranking": "11",
+        "title": "Who",
+        "artist": "Who",
+        "album": "지민",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "12",
+        "title": "MEOW",
+        "artist": "MEOW",
+        "album": "MEOVV",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2d/ac/db/2dacdb79-49be-45e5-c6a3-c73f827f0dd7/8800261899663_cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "13",
+        "title": "Supernova",
+        "artist": "Supernova",
+        "album": "aespa",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/9b/4e/2b9b4ef2-85f3-1880-934f-9a45f8480cfb/888735947483.png/80x80bb.webp"
+    },
+    {
+        "ranking": "14",
+        "title": "Welcome to the Show",
+        "artist": "Welcome to the Show",
+        "album": "데이식스",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/42/fb/af/42fbaf16-efe2-4e1f-2e5e-bb42c2bdc281/DAY6_Fourever_Online_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "15",
+        "title": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
+        "artist": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
+        "album": "악뮤",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e4/a2/80/e4a28015-490b-255a-ff26-aadd6257cfa1/AKMU_DS.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "16",
+        "title": "How Sweet",
+        "artist": "How Sweet",
+        "album": "뉴진스",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/68/ca/bf68ca64-4acd-543f-bc78-455f11f06105/196922889738_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "17",
+        "title": "Die With A Smile",
+        "artist": "Die With A Smile",
+        "album": "Lady Gaga",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "18",
+        "title": "녹아내려요",
+        "artist": "녹아내려요",
+        "album": "데이식스",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6a/2f/6d/6a2f6d7d-c40d-4d5b-3eb5-12fa459995f1/DAY6_Band_Aid_Artwork.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "19",
+        "title": "Kill It",
+        "artist": "Kill It",
+        "album": "aespa",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/26/5d/1a265da7-ff45-8df0-ee94-7b79becfc7d9/888735949562.png/80x80bb.webp"
+    },
+    {
+        "ranking": "20",
+        "title": "Armageddon",
+        "artist": "Armageddon",
+        "album": "aespa",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/97/05/cf970525-a2fd-a7e3-2812-0f9c3f3d2c33/888735947551.png/80x80bb.webp"
+    },
+    {
+        "ranking": "21",
+        "title": "LOVE, MONEY, FAME (feat. DJ Khaled)",
+        "artist": "LOVE, MONEY, FAME (feat. DJ Khaled)",
+        "album": "세븐틴",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9a/30/ec/9a30ec28-9484-eaa3-5c5d-3aa7039ce0c1/198704184437_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "22",
+        "title": "네모네모",
+        "artist": "네모네모",
+        "album": "최예나",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/34/6b/dc/346bdc50-b35d-955d-9531-993682c294e9/888272140439_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "23",
+        "title": "Supernatural",
+        "artist": "Supernatural",
+        "album": "뉴진스",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ab/ce/d6/abced6f6-2b90-c230-eb4b-e146734a3a22/196922907821_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "24",
+        "title": "Touch",
+        "artist": "Touch",
+        "album": "KATSEYE",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/72/81/f7728103-c7db-0a16-f7f1-8d722581cbcd/00602465952483_cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "25",
+        "title": "Flowers",
+        "artist": "Flowers",
+        "album": "aespa",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/26/5d/1a265da7-ff45-8df0-ee94-7b79becfc7d9/888735949562.png/80x80bb.webp"
+    },
+    {
+        "ranking": "26",
+        "title": "Flights, Not Feelings",
+        "artist": "Flights, Not Feelings",
+        "album": "aespa",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/26/5d/1a265da7-ff45-8df0-ee94-7b79becfc7d9/888735949562.png/80x80bb.webp"
+    },
+    {
+        "ranking": "27",
+        "title": "Get Loud",
+        "artist": "Get Loud",
+        "album": "KISS OF LIFE",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/70/86/dd70863e-2571-25cd-d1eb-c44a5cdba57f/cover_KM0020274_1.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "28",
+        "title": "Magnetic",
+        "artist": "Magnetic",
+        "album": "아일릿",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3e/49/1e/3e491e43-4961-21ab-2abe-37fb1c0feb40/196922879227_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "29",
+        "title": "Nice Guy",
+        "artist": "Nice Guy",
+        "album": "보이넥스트도어",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/fe/7a/25fe7a3c-09c5-fedd-418e-42c8d03b115e/198704113956_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "30",
+        "title": "Congratulations",
+        "artist": "Congratulations",
+        "album": "데이식스",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music60/v4/6b/b2/cc/6bb2cc38-d3bf-af92-f7e6-cd3ad24279f6/mzm.hlknqhiv.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "31",
+        "title": "내게 사랑이 뭐냐고 물어본다면",
+        "artist": "내게 사랑이 뭐냐고 물어본다면",
+        "album": "로이킴",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b5/f7/17/b5f7170a-c9fa-35e3-d2a0-94e4cdeb145e/888272141344_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "32",
+        "title": "Sticky",
+        "artist": "Sticky",
+        "album": "KISS OF LIFE",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/00/c7/9b00c7e0-2e78-af06-bcfe-89d7a00e5a6d/cover_KM0019987_1.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "33",
+        "title": "한 페이지가 될 수 있게",
+        "artist": "한 페이지가 될 수 있게",
+        "album": "데이식스",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/b3/8f/9d/b38f9d23-d5c3-cde5-92ad-9a8fa6d0a7eb/DAY6_The_Book_of_Us_Gravity_3000x3000.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "34",
+        "title": "Ditto",
+        "artist": "Ditto",
+        "album": "뉴진스",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/96/08/4896085e-b550-cb0a-3e5b-1f203521cb82/196922265464_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "35",
+        "title": "CRAZY",
+        "artist": "CRAZY",
+        "album": "르세라핌",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/47/3a/1f473a01-7d87-23f5-ee05-3a450cd5537a/198704101359_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "36",
+        "title": "예뻤어",
+        "artist": "예뻤어",
+        "album": "데이식스",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/be/b6/6f/beb66f68-dd13-462b-13ab-1ff308248c53/Every_DAY6_February_cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "37",
+        "title": "BIRDS OF A FEATHER",
+        "artist": "BIRDS OF A FEATHER",
+        "album": "Billie Eilish",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/9f/69/929f69f1-9977-3a44-d674-11f70c852d1b/24UMGIM36186.rgb.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "38",
+        "title": "Just Another Girl",
+        "artist": "Just Another Girl",
+        "album": "aespa",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/26/5d/1a265da7-ff45-8df0-ee94-7b79becfc7d9/888735949562.png/80x80bb.webp"
+    },
+    {
+        "ranking": "39",
+        "title": "Pink Hoodie",
+        "artist": "Pink Hoodie",
+        "album": "aespa",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/26/5d/1a265da7-ff45-8df0-ee94-7b79becfc7d9/888735949562.png/80x80bb.webp"
+    },
+    {
+        "ranking": "40",
+        "title": "Attention",
+        "artist": "Attention",
+        "album": "뉴진스",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "41",
+        "title": "Be Mine",
+        "artist": "Be Mine",
+        "album": "지민",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "42",
+        "title": "가까운 듯 먼 그대여",
+        "artist": "가까운 듯 먼 그대여",
+        "album": "카더가든",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ef/ab/1e/efab1e8c-0efc-1442-0c70-5197ac7e2647/191953137896-4064174.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "43",
+        "title": "Bubble Gum",
+        "artist": "Bubble Gum",
+        "album": "뉴진스",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bf/68/ca/bf68ca64-4acd-543f-bc78-455f11f06105/196922889738_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "44",
+        "title": "Espresso",
+        "artist": "Espresso",
+        "album": "Sabrina Carpenter",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/64/8c/cb648cf7-e7bb-bd00-efe0-d744312c29a8/24UMGIM32304.rgb.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "45",
+        "title": "SOS",
+        "artist": "SOS",
+        "album": "피프티 피프티",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d9/17/a5/d917a51b-fead-dabd-3189-31ba223d2eff/196872382174.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "46",
+        "title": "Boom Boom Bass",
+        "artist": "Boom Boom Bass",
+        "album": "RIIZE",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/1e/ad/411eadf4-7685-17d0-6dca-830553600b9b/888735948763.png/80x80bb.webp"
+    },
+    {
+        "ranking": "47",
+        "title": "Hype Boy",
+        "artist": "Hype Boy",
+        "album": "뉴진스",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "48",
+        "title": "그대만 있다면 (영화 '여름날 우리')",
+        "artist": "그대만 있다면 (영화 '여름날 우리')",
+        "album": "Nerd Connection",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/66/39/f0/6639f07c-9350-c249-6558-72e4c88ce7fe/cover_KM0018050_1.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "49",
+        "title": "고민중독",
+        "artist": "고민중독",
+        "album": "QWER",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/75/54/38/75543853-92c7-064c-fe26-2cbf5eecc6d8/cover_KM0019655_1.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "50",
+        "title": "Drama",
+        "artist": "Drama",
+        "album": "aespa",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f7/f0/5c/f7f05ce4-e5a4-900d-e087-1dd9668b2b34/888735945939.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "51",
+        "title": "踊り子",
+        "artist": "踊り子",
+        "album": "Vaundy",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/8a/eb/75/8aeb7526-6fe4-a81a-5dce-c5d026e7f036/4547366655728.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "52",
+        "title": "Igloo",
+        "artist": "Igloo",
+        "album": "KISS OF LIFE",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dd/70/86/dd70863e-2571-25cd-d1eb-c44a5cdba57f/cover_KM0020274_1.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "53",
+        "title": "Small girl (feat. D.O.)",
+        "artist": "Small girl (feat. D.O.)",
+        "album": "이영지",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/ff/93/cfff93b5-e7ef-6a28-6786-9f82f79d8117/8804775305474.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "54",
+        "title": "청춘만화",
+        "artist": "청춘만화",
+        "album": "이무진",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1f/57/14/1f57141a-407e-1ff5-bc29-f73fab043872/cover_KM0020430_1.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "55",
+        "title": "별별별",
+        "artist": "별별별",
+        "album": "NMIXX",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ac/13/bf/ac13bf98-9467-ac58-5ec1-3972de6de36e/05._NMIXX_Fe3O4_STICK_OUT_Artwork_3000x3000.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "56",
+        "title": "IYKYK (If You Know You Know)",
+        "artist": "IYKYK (If You Know You Know)",
+        "album": "아일릿",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/20/73/e9207332-1b22-18d0-5d1b-daaf370a4317/198704136962_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "57",
+        "title": "Here With Me",
+        "artist": "Here With Me",
+        "album": "d4vd",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/90/ad/38/90ad385f-2dba-8046-99d0-3ee71df77297/22UM1IM07351.rgb.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "58",
+        "title": "I'll Like You",
+        "artist": "I'll Like You",
+        "album": "아일릿",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/20/73/e9207332-1b22-18d0-5d1b-daaf370a4317/198704136962_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "59",
+        "title": "Spicy",
+        "artist": "Spicy",
+        "album": "aespa",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/af/2c/6d/af2c6d62-0ebc-2dff-17b3-8eeb2b3986a0/888735943621.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "60",
+        "title": "ETA",
+        "artist": "ETA",
+        "album": "뉴진스",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/4b/7e/d34b7e1e-af3b-43b6-2949-7a8c652a1bc9/196922462726_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "61",
+        "title": "Cruel Summer",
+        "artist": "Cruel Summer",
+        "album": "Taylor Swift",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/49/3d/ab/493dab54-f920-9043-6181-80993b8116c9/19UMGIM53909.rgb.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "62",
+        "title": "OMG (Apple Music Edition)",
+        "artist": "OMG (Apple Music Edition)",
+        "album": "뉴진스",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d0/78/92/d07892c1-2770-7e7f-68ba-dc6409750f7a/196922401039_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "63",
+        "title": "Love wins all",
+        "artist": "Love wins all",
+        "album": "아이유",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e3/56/1e/e3561eb5-de12-790d-569b-53fa22e6b491/cover_KM0019422_1.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "64",
+        "title": "부모님 관람불가",
+        "artist": "부모님 관람불가",
+        "album": "보이넥스트도어",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/25/fe/7a/25fe7a3c-09c5-fedd-418e-42c8d03b115e/198704113956_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "65",
+        "title": "좋은 밤 좋은 꿈",
+        "artist": "좋은 밤 좋은 꿈",
+        "album": "Nerd Connection",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/f9/77/7af977be-cf12-73f4-7534-a54359205405/cover_KM0019696_1.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "66",
+        "title": "ベテルギウス",
+        "artist": "ベテルギウス",
+        "album": "Yuuri",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f1/d5/61/f1d561dc-7fab-68fa-39ac-4440d7a27940/4547366533842.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "67",
+        "title": "EVERYTHING",
+        "artist": "EVERYTHING",
+        "album": "검정치마",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/be/ce/5c/bece5cff-2caf-6d8a-9c21-3035537d2a4d/Album_cover_1400X1400.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "68",
+        "title": "숲",
+        "artist": "숲",
+        "album": "최유리",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/93/a7/4b/93a74b7c-69be-a9b1-1499-2d2eb0f9c3ed/191953194141.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "69",
+        "title": "GOLD",
+        "artist": "GOLD",
+        "album": "ITZY",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/3d/d0/863dd024-f0f8-10d6-8cde-22e8f2de77da/ITZY_GOLD_online_cover_final.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "70",
+        "title": "Yours",
+        "artist": "Yours",
+        "album": "데이먼스 이어",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/da/82/e1/da82e1b2-09d1-f4d1-327d-076b7d539241/yours_cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "71",
+        "title": "Love me or Leave me",
+        "artist": "Love me or Leave me",
+        "album": "데이식스",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d0/9e/4c/d09e4c70-01dc-a532-ec0e-23f91b5a549e/DAY6_The_Book_of_Us_The_Demon_cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "72",
+        "title": "주저하는 연인들을 위해",
+        "artist": "주저하는 연인들을 위해",
+        "album": "잔나비",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/fc/a9/b2/fca9b2d4-b1ed-92e8-2e5f-1838d77cbce7/cover-_NEW.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "73",
+        "title": "Love 119",
+        "artist": "Love 119",
+        "album": "RIIZE",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/8d/3f/e18d3f88-d4f5-e48a-21db-38da628a9896/888735946431.png/80x80bb.webp"
+    },
+    {
+        "ranking": "74",
+        "title": "Dunk Shot",
+        "artist": "Dunk Shot",
+        "album": "NCT WISH",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/6f/ba/b96fba14-1aab-ce7b-5dd9-5f50fdd33dff/dj.lejatqhp.png/80x80bb.webp"
+    },
+    {
+        "ranking": "75",
+        "title": "SHEESH",
+        "artist": "SHEESH",
+        "album": "BABYMONSTER",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fb/68/85/fb68856f-4965-5d30-78ea-fe6bb261f4ff/3000px.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "76",
+        "title": "Earth, Wind & Fire",
+        "artist": "Earth, Wind & Fire",
+        "album": "보이넥스트도어",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3e/38/bf/3e38bf61-7171-1cfc-7dc4-8e74751f2b6b/196922852268_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "77",
+        "title": "소나기",
+        "artist": "소나기",
+        "album": "이클립스",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/41/84/09/418409b3-7485-6cc0-9533-584fb0eecfaf/888272132571_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "78",
+        "title": "Girls Never Die",
+        "artist": "Girls Never Die",
+        "album": "트리플에스",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/fe/5e/5d/fe5e5d84-8f3b-3feb-c0d7-fd6d472753f5/cover_KM0019837_1.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "79",
+        "title": "Super Shy",
+        "artist": "Super Shy",
+        "album": "뉴진스",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/63/e5/e2/63e5e2e4-829b-924d-a1dc-8058a1d69bd4/196922462702_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "80",
+        "title": "Don't Look Back in Anger (Remastered)",
+        "artist": "Don't Look Back in Anger (Remastered)",
+        "album": "Oasis",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e2/e4/9b/e2e49bdf-c92c-2ff9-c7bd-7e651f2aa6b3/886444642743.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "81",
+        "title": "Zombie",
+        "artist": "Zombie",
+        "album": "데이식스",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d0/9e/4c/d09e4c70-01dc-a532-ec0e-23f91b5a549e/DAY6_The_Book_of_Us_The_Demon_cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "82",
+        "title": "Vancouver",
+        "artist": "Vancouver",
+        "album": "BIG Naughty",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/25/12/60/25126097-f534-0393-d6a2-3c168a9ea47e/cover_KM0015226_1.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "83",
+        "title": "Lemon",
+        "artist": "Lemon",
+        "album": "요네즈 켄시",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6b/0f/0b/6b0f0b3d-e842-5ee1-83a8-1b12142a9dfd/dj.bpfbtyiy.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "84",
+        "title": "Cool With You",
+        "artist": "Cool With You",
+        "album": "뉴진스",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/4b/7e/d34b7e1e-af3b-43b6-2949-7a8c652a1bc9/196922462726_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "85",
+        "title": "Spark (WINTER Solo)",
+        "artist": "Spark (WINTER Solo)",
+        "album": "aespa",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/85/0e/fd850e67-f6e2-c4e9-6ea5-501ca5afccbd/aespa_DS_Synk-PARALLEL_LINE_DC.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "86",
+        "title": "R.E.M",
+        "artist": "R.E.M",
+        "album": "KISS OF LIFE",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e3/e1/2c/e3e12c99-c1ea-e4ea-09d2-370b4df5c2e5/cover_KM0020274_1.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "87",
+        "title": "Cookie",
+        "artist": "Cookie",
+        "album": "뉴진스",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/4e/64/34/4e64344b-3ac6-c503-2c41-257a15401416/192641873096_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "88",
+        "title": "작은 것들을 위한 시 (Boy With Luv) [feat. Halsey]",
+        "artist": "작은 것들을 위한 시 (Boy With Luv) [feat. Halsey]",
+        "album": "방탄소년단",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/40/d4/93/40d493e3-ac9e-1746-8d4c-f380f27c97cb/193483706238_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "89",
+        "title": "인사",
+        "artist": "인사",
+        "album": "범진",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/04/6c/a3/046ca30f-94e8-bbae-def8-e087a323fa6d/8809856740601.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "90",
+        "title": "Bye Bye My Blue",
+        "artist": "Bye Bye My Blue",
+        "album": "백예린",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d3/3b/6d/d33b6d23-795d-2b29-89fe-88170cbfbf4d/online_cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "91",
+        "title": "I AM",
+        "artist": "I AM",
+        "album": "아이브",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fe/2f/49/fe2f497c-2b68-b67d-2199-67a3b8169e36/cover_KM0017019_1.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "92",
+        "title": "Trip (feat. Hannah)",
+        "artist": "Trip (feat. Hannah)",
+        "album": "릴러말즈",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/d2/6f/40/d26f4042-607f-3cef-b70c-8426e9d13e6f/8809603548191_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "93",
+        "title": "Home Sweet Home",
+        "artist": "Home Sweet Home",
+        "album": "카더가든",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f2/9c/b0/f29cb0b6-ba14-6a2a-4988-c16ea735ff07/8809534468704.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "94",
+        "title": "TOMBOY",
+        "artist": "TOMBOY",
+        "album": "혁오",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/20/de/43/20de43fe-733e-3734-cab9-7bd787411260/Cover_HYUKOH_23.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "95",
+        "title": "거리에서",
+        "artist": "거리에서",
+        "album": "성시경",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/21/7c/88/217c88ed-80bf-adfa-7cdf-a5c219daf9f7/8809784722939.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "96",
+        "title": "죽일 놈",
+        "artist": "죽일 놈",
+        "album": "다이나믹 듀오",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/ff/34/4f/ff344f3d-31b0-6c99-c28e-f3e241bf0a27/8809603545916_Cover.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "97",
+        "title": "I Don't Care",
+        "artist": "I Don't Care",
+        "album": "2NE1",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ad/54/17/ad54177e-3f63-2e84-67f0-640627feeb97/8806384562958.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "98",
+        "title": "그리운건 그대일까 그때일까",
+        "artist": "그리운건 그대일까 그때일까",
+        "album": "씨엔블루",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/96/fe/11/96fe1173-9389-f990-ba52-828185badad5/cover_KM0020422_1.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "99",
+        "title": "미안해 미워해 사랑해",
+        "artist": "미안해 미워해 사랑해",
+        "album": "크러쉬",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/84/b6/a8/84b6a808-9f87-47df-b41b-b15e1bdace30/191953341866.jpg/80x80bb.webp"
+    },
+    {
+        "ranking": "100",
+        "title": "Midas Touch",
+        "artist": "Midas Touch",
+        "album": "KISS OF LIFE",
+        "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/6f/c2/e16fc273-6872-31a0-a667-3e8777da2636/8804775348402.jpg/80x80bb.webp"
+    }
+]
