@@ -1,0 +1,602 @@
+[
+    {
+        "rank": "1",
+        "title": "All I Want For Christmas Is You",
+        "artist": "Mariah Carey",
+        "imageURL": "https://charts-static.billboard.com/img/1994/12/mariah-carey-x65-alliwantforchristmasisyou-7ve-180x180.jpg"
+    },
+    {
+        "rank": "2",
+        "title": "Rockin' Around The Christmas Tree",
+        "artist": "Brenda Lee",
+        "imageURL": "https://charts-static.billboard.com/img/1960/12/brenda-lee-we3-rockinaroundthechristmastree-lnw-180x180.jpg"
+    },
+    {
+        "rank": "3",
+        "title": "Last Christmas",
+        "artist": "Wham!",
+        "imageURL": "https://charts-static.billboard.com/img/1998/01/wham-pyz-lastchristmas-xhm-180x180.jpg"
+    },
+    {
+        "rank": "4",
+        "title": "TV Off",
+        "artist": "Kendrick Lamar Featuring Lefty Gunplay",
+        "imageURL": "https://charts-static.billboard.com/img/2010/10/kendrick-lamar-1hw-180x180.jpg"
+    },
+    {
+        "rank": "5",
+        "title": "Jingle Bell Rock",
+        "artist": "Bobby Helms",
+        "imageURL": "https://charts-static.billboard.com/img/1958/12/bobby-helms-elv-jinglebellrock-dkg-180x180.jpg"
+    },
+    {
+        "rank": "6",
+        "title": "Luther",
+        "artist": "Kendrick Lamar & SZA",
+        "imageURL": "https://charts-static.billboard.com/img/2010/10/kendrick-lamar-1hw-180x180.jpg"
+    },
+    {
+        "rank": "7",
+        "title": "Squabble Up",
+        "artist": "Kendrick Lamar",
+        "imageURL": "https://charts-static.billboard.com/img/2010/10/kendrick-lamar-1hw-180x180.jpg"
+    },
+    {
+        "rank": "8",
+        "title": "A Bar Song (Tipsy)",
+        "artist": "Shaboozey",
+        "imageURL": "https://charts-static.billboard.com/img/2024/04/shaboozey-d1i-abarsongtipsy-bat-180x180.jpg"
+    },
+    {
+        "rank": "9",
+        "title": "Die With A Smile",
+        "artist": "Lady Gaga & Bruno Mars",
+        "imageURL": "https://charts-static.billboard.com/img/2024/08/lady-gaga-r3b-diewithasmile-6og-180x180.jpg"
+    },
+    {
+        "rank": "10",
+        "title": "A Holly Jolly Christmas",
+        "artist": "Burl Ives",
+        "imageURL": "https://charts-static.billboard.com/img/1998/01/burl-ives-2ew-ahollyjollychristmas-iae-180x180.jpg"
+    },
+    {
+        "rank": "11",
+        "title": "It's The Most Wonderful Time Of The Year",
+        "artist": "Andy Williams",
+        "imageURL": "https://charts-static.billboard.com/img/2001/12/andy-williams-nyc-itsthemostwonderfultimeoftheyear-8ww-180x180.jpg"
+    },
+    {
+        "rank": "12",
+        "title": "Birds Of A Feather",
+        "artist": "Billie Eilish",
+        "imageURL": "https://charts-static.billboard.com/img/2024/06/billie-eilish-lrt-birdsofafeather-7iy-180x180.jpg"
+    },
+    {
+        "rank": "13",
+        "title": "Let It Snow! Let It Snow! Let It Snow!",
+        "artist": "Dean Martin",
+        "imageURL": "https://charts-static.billboard.com/img/2011/12/dean-martin-tc6-letitsnowletitsnowletitsnow-ipd-180x180.jpg"
+    },
+    {
+        "rank": "14",
+        "title": "Espresso",
+        "artist": "Sabrina Carpenter",
+        "imageURL": "https://charts-static.billboard.com/img/2024/04/sabrina-carpenter-3b3-espresso-c1a-180x180.jpg"
+    },
+    {
+        "rank": "15",
+        "title": "Lose Control",
+        "artist": "Teddy Swims",
+        "imageURL": "https://charts-static.billboard.com/img/2023/07/teddyswims-vqy-losecontrol-4kx-180x180.jpg"
+    },
+    {
+        "rank": "16",
+        "title": "That's So True",
+        "artist": "Gracie Abrams",
+        "imageURL": "https://charts-static.billboard.com/img/2020/10/gracie-abrams-wqa-180x180.jpg"
+    },
+    {
+        "rank": "17",
+        "title": "APT.",
+        "artist": "ROSE & Bruno Mars",
+        "imageURL": "https://charts-static.billboard.com/img/2024/10/rose-000-apt-kne-180x180.jpg"
+    },
+    {
+        "rank": "18",
+        "title": "I Had Some Help",
+        "artist": "Post Malone Featuring Morgan Wallen",
+        "imageURL": "https://charts-static.billboard.com/img/2024/05/post-malone-uhe-ihadsomehelp-1sg-180x180.jpg"
+    },
+    {
+        "rank": "19",
+        "title": "Santa Tell Me",
+        "artist": "Ariana Grande",
+        "imageURL": "https://charts-static.billboard.com/img/2014/12/ariana-grande-q1f-santatellme-st8-180x180.jpg"
+    },
+    {
+        "rank": "20",
+        "title": "Underneath The Tree",
+        "artist": "Kelly Clarkson",
+        "imageURL": "https://charts-static.billboard.com/img/2013/11/kelly-clarkson-w89-underneaththetree-hcd-180x180.jpg"
+    },
+    {
+        "rank": "21",
+        "title": "Taste",
+        "artist": "Sabrina Carpenter",
+        "imageURL": "https://charts-static.billboard.com/img/2014/06/sabrina-carpenter-3b3-180x180.jpg"
+    },
+    {
+        "rank": "22",
+        "title": "The Christmas Song (Merry Christmas To You)",
+        "artist": "Nat \"King\" Cole",
+        "imageURL": "https://charts-static.billboard.com/img/1958/08/nat-king-cole-4rw-180x180.jpg"
+    },
+    {
+        "rank": "23",
+        "title": "Sleigh Ride",
+        "artist": "The Ronettes",
+        "imageURL": "https://charts-static.billboard.com/img/1963/08/the-ronettes-ae9-180x180.jpg"
+    },
+    {
+        "rank": "24",
+        "title": "It's Beginning To Look A Lot Like Christmas",
+        "artist": "Michael Buble",
+        "imageURL": "https://charts-static.billboard.com/img/2003/03/michael-buble-c34-180x180.jpg"
+    },
+    {
+        "rank": "25",
+        "title": "Feliz Navidad",
+        "artist": "Jose Feliciano",
+        "imageURL": "https://charts-static.billboard.com/img/1998/01/jose-feliciano-dak-feliznavidad-eq3-180x180.jpg"
+    },
+    {
+        "rank": "26",
+        "title": "Beautiful Things",
+        "artist": "Benson Boone",
+        "imageURL": "https://charts-static.billboard.com/img/2024/02/bensonboone-zpu-beautifulthings-vvt-180x180.jpg"
+    },
+    {
+        "rank": "27",
+        "title": "Timeless",
+        "artist": "The Weeknd & Playboi Carti",
+        "imageURL": "https://charts-static.billboard.com/img/2024/10/the-weeknd-jlk-timeless-ait-180x180.jpg"
+    },
+    {
+        "rank": "28",
+        "title": "Too Sweet",
+        "artist": "Hozier",
+        "imageURL": "https://charts-static.billboard.com/img/2013/10/hozier-7ov-87x87.jpg"
+    },
+    {
+        "rank": "29",
+        "title": "Wacced Out Murals",
+        "artist": "Kendrick Lamar",
+        "imageURL": "https://charts-static.billboard.com/img/2010/10/kendrick-lamar-1hw-180x180.jpg"
+    },
+    {
+        "rank": "30",
+        "title": "Love Somebody",
+        "artist": "Morgan Wallen",
+        "imageURL": "https://charts-static.billboard.com/img/2024/11/morgan-wallen-fi6-lovesomebody-a74-180x180.jpg"
+    },
+    {
+        "rank": "31",
+        "title": "It's Beginning To Look A Lot Like Christmas",
+        "artist": "Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra",
+        "imageURL": "https://charts-static.billboard.com/img/2013/12/perry-como-srg-180x180.jpg"
+    },
+    {
+        "rank": "32",
+        "title": "Hey Now",
+        "artist": "Kendrick Lamar Featuring Dody6",
+        "imageURL": "https://charts-static.billboard.com/img/2010/10/kendrick-lamar-1hw-180x180.jpg"
+    },
+    {
+        "rank": "33",
+        "title": "Sticky",
+        "artist": "Tyler, The Creator Featuring GloRilla, Sexyy Red & Lil Wayne",
+        "imageURL": "https://charts-static.billboard.com/img/2011/05/tyler-the-creator-loo-180x180.jpg"
+    },
+    {
+        "rank": "34",
+        "title": "Good Luck, Babe!",
+        "artist": "Chappell Roan",
+        "imageURL": "https://charts-static.billboard.com/img/2024/04/chappellroan-bhw-goodluckbabe-yrt-180x180.jpg"
+    },
+    {
+        "rank": "35",
+        "title": "Not Like Us",
+        "artist": "Kendrick Lamar",
+        "imageURL": "https://charts-static.billboard.com/img/2024/05/kendrick-lamar-1hw-notlikeus-fyp-180x180.jpg"
+    },
+    {
+        "rank": "36",
+        "title": "Run Rudolph Run",
+        "artist": "Chuck Berry",
+        "imageURL": "https://charts-static.billboard.com/img/1958/12/chuck-berry-7i5-runrudolphrun-bp6-180x180.jpg"
+    },
+    {
+        "rank": "37",
+        "title": "Jingle Bells",
+        "artist": "Frank Sinatra With The Orchestra & Chorus Of Gordon Jenkins",
+        "imageURL": "https://charts-static.billboard.com/img/2012/12/frank-sinatra-wyt-jinglebells-vgd-180x180.jpg"
+    },
+    {
+        "rank": "38",
+        "title": "Christmas (Baby Please Come Home)",
+        "artist": "Darlene Love",
+        "imageURL": "https://charts-static.billboard.com/img/2014/12/darlene-love-4un-christmasbabypleasecomehome-430-180x180.jpg"
+    },
+    {
+        "rank": "39",
+        "title": "Whatchu Kno About Me",
+        "artist": "GloRilla & Sexyy Red",
+        "imageURL": "https://charts-static.billboard.com/img/2022/05/glorilla-bn2-180x180.jpg"
+    },
+    {
+        "rank": "40",
+        "title": "White Christmas (1947)",
+        "artist": "Bing Crosby With Ken Darby Singers & John Scott Trotter & His Orchestra",
+        "imageURL": "https://charts-static.billboard.com/img/1958/12/bing-crosby-7ej-whitechristmas-imr-180x180.jpg"
+    },
+    {
+        "rank": "41",
+        "title": "Dodger Blue",
+        "artist": "Kendrick Lamar Featuring Wallie the Sensei, Siete7x & Roddy Ricch",
+        "imageURL": "https://charts-static.billboard.com/img/2010/10/kendrick-lamar-1hw-180x180.jpg"
+    },
+    {
+        "rank": "42",
+        "title": "Stargazing",
+        "artist": "Myles Smith",
+        "imageURL": "https://charts-static.billboard.com/img/2024/05/mylessmith-w4f-stargazing-35e-180x180.jpg"
+    },
+    {
+        "rank": "43",
+        "title": "Deck The Halls",
+        "artist": "Nat King Cole",
+        "imageURL": "https://charts-static.billboard.com/img/1958/08/nat-king-cole-4rw-180x180.jpg"
+    },
+    {
+        "rank": "44",
+        "title": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+        "artist": "Gene Autry",
+        "imageURL": "https://charts-static.billboard.com/img/2003/12/gene-autry-bp4-herecomessantaclausrightdownsantaclauslane-5sh-180x180.jpg"
+    },
+    {
+        "rank": "45",
+        "title": "Defying Gravity",
+        "artist": "Cynthia Erivo Featuring Ariana Grande",
+        "imageURL": "https://charts-static.billboard.com/img/2011/02/ariana-grande-q1f-87x87.jpg"
+    },
+    {
+        "rank": "46",
+        "title": "Reincarnated",
+        "artist": "Kendrick Lamar",
+        "imageURL": "https://charts-static.billboard.com/img/2010/10/kendrick-lamar-1hw-180x180.jpg"
+    },
+    {
+        "rank": "47",
+        "title": "Who",
+        "artist": "Jimin",
+        "imageURL": "https://charts-static.billboard.com/img/2024/07/ji-min-7g4-who-dvy-180x180.jpg"
+    },
+    {
+        "rank": "48",
+        "title": "Peekaboo",
+        "artist": "Kendrick Lamar Featuring AzChike",
+        "imageURL": "https://charts-static.billboard.com/img/2010/10/kendrick-lamar-1hw-180x180.jpg"
+    },
+    {
+        "rank": "49",
+        "title": "I Am Not Okay",
+        "artist": "Jelly Roll",
+        "imageURL": "https://charts-static.billboard.com/img/2024/06/jelly-roll-7m0-iamnotokay-zvd-180x180.jpg"
+    },
+    {
+        "rank": "50",
+        "title": "Please Please Please",
+        "artist": "Sabrina Carpenter",
+        "imageURL": "https://charts-static.billboard.com/img/2024/06/sabrina-carpenter-3b3-pleasepleaseplease-i9t-180x180.jpg"
+    },
+    {
+        "rank": "51",
+        "title": "Sailor Song",
+        "artist": "Gigi Perez",
+        "imageURL": "https://charts-static.billboard.com/img/2024/08/gigiperez-iqu-sailorsong-x36-180x180.jpg"
+    },
+    {
+        "rank": "52",
+        "title": "Man At The Garden",
+        "artist": "Kendrick Lamar",
+        "imageURL": "https://charts-static.billboard.com/img/2010/10/kendrick-lamar-1hw-180x180.jpg"
+    },
+    {
+        "rank": "53",
+        "title": "Popular",
+        "artist": "Ariana Grande",
+        "imageURL": "https://charts-static.billboard.com/img/2011/02/ariana-grande-q1f-87x87.jpg"
+    },
+    {
+        "rank": "54",
+        "title": "Heart Pt. 6",
+        "artist": "Kendrick Lamar",
+        "imageURL": "https://charts-static.billboard.com/img/2010/10/kendrick-lamar-1hw-180x180.jpg"
+    },
+    {
+        "rank": "55",
+        "title": "High Road",
+        "artist": "Koe Wetzel & Jessie Murph",
+        "imageURL": "https://charts-static.billboard.com/img/2024/06/koe-wetzel-1ky-highroad-769-180x180.jpg"
+    },
+    {
+        "rank": "56",
+        "title": "Empty Out Your Pockets",
+        "artist": "Juice WRLD",
+        "imageURL": "https://charts-static.billboard.com/img/2018/05/juice-wrld-as8-180x180.jpg"
+    },
+    {
+        "rank": "57",
+        "title": "Bed Chem",
+        "artist": "Sabrina Carpenter",
+        "imageURL": "https://charts-static.billboard.com/img/2014/06/sabrina-carpenter-3b3-180x180.jpg"
+    },
+    {
+        "rank": "58",
+        "title": "You Look Like You Love Me",
+        "artist": "Ella Langley Featuring Riley Green",
+        "imageURL": "https://charts-static.billboard.com/img/2024/06/ellalangley-mpj-youlooklikeyouloveme-vtu-180x180.jpg"
+    },
+    {
+        "rank": "59",
+        "title": "Gloria",
+        "artist": "Kendrick Lamar & SZA",
+        "imageURL": "https://charts-static.billboard.com/img/2010/10/kendrick-lamar-1hw-180x180.jpg"
+    },
+    {
+        "rank": "60",
+        "title": "Like Him",
+        "artist": "Tyler, The Creator Featuring Lola Young",
+        "imageURL": "https://charts-static.billboard.com/img/2011/05/tyler-the-creator-loo-180x180.jpg"
+    },
+    {
+        "rank": "61",
+        "title": "No One Noticed",
+        "artist": "The Marias",
+        "imageURL": "https://charts-static.billboard.com/img/2024/08/themarias-mjs-noonenoticed-we8-180x180.jpg"
+    },
+    {
+        "rank": "62",
+        "title": "What Is This Feeling?",
+        "artist": "Ariana Grande & Cynthia Erivo",
+        "imageURL": "https://charts-static.billboard.com/img/2011/02/ariana-grande-q1f-87x87.jpg"
+    },
+    {
+        "rank": "63",
+        "title": "Tu Boda",
+        "artist": "Oscar Maydon & Fuerza Regida",
+        "imageURL": "https://charts-static.billboard.com/img/2024/10/oscarmaydon-uvh-tuboda-ktj-180x180.jpg"
+    },
+    {
+        "rank": "64",
+        "title": "Wind Up Missin' You",
+        "artist": "Tucker Wetmore",
+        "imageURL": "https://charts-static.billboard.com/img/2024/04/tuckerwetmore-5kz-windupmissinyou-2rn-180x180.jpg"
+    },
+    {
+        "rank": "65",
+        "title": "Misfit",
+        "artist": "Juice WRLD",
+        "imageURL": "https://charts-static.billboard.com/img/2018/05/juice-wrld-as8-180x180.jpg"
+    },
+    {
+        "rank": "66",
+        "title": "I Love You, I'm Sorry",
+        "artist": "Gracie Abrams",
+        "imageURL": "https://charts-static.billboard.com/img/2020/10/gracie-abrams-wqa-180x180.jpg"
+    },
+    {
+        "rank": "67",
+        "title": "GNX",
+        "artist": "Kendrick Lamar Featuring Hitta J3, YoungThreat & Peysoh",
+        "imageURL": "https://charts-static.billboard.com/img/2010/10/kendrick-lamar-1hw-180x180.jpg"
+    },
+    {
+        "rank": "68",
+        "title": "Pink Pony Club",
+        "artist": "Chappell Roan",
+        "imageURL": "https://charts-static.billboard.com/img/2024/06/chappellroan-bhw-pinkponyclub-14t-180x180.jpg"
+    },
+    {
+        "rank": "69",
+        "title": "Ma Meilleure Ennemie",
+        "artist": "Stromae & Pomme",
+        "imageURL": "https://charts-static.billboard.com/img/2009/10/stromae-ex2-180x180.jpg"
+    },
+    {
+        "rank": "70",
+        "title": "It's Ok I'm Ok",
+        "artist": "Tate McRae",
+        "imageURL": "https://charts-static.billboard.com/img/2024/09/tatemcrae-rxu-itsokimok-dr7-180x180.jpg"
+    },
+    {
+        "rank": "71",
+        "title": "I Never Lie",
+        "artist": "Zach Top",
+        "imageURL": "https://charts-static.billboard.com/img/2024/01/zachtop-7m8-180x180.jpg"
+    },
+    {
+        "rank": "72",
+        "title": "Dancing In The Flames",
+        "artist": "The Weeknd",
+        "imageURL": "https://charts-static.billboard.com/img/2024/09/the-weeknd-jlk-dancingintheflames-nx1-180x180.jpg"
+    },
+    {
+        "rank": "73",
+        "title": "Que Pasaria...",
+        "artist": "Rauw Alejandro & Bad Bunny",
+        "imageURL": "https://charts-static.billboard.com/img/2018/09/rauwalejandro-why-180x180.jpg"
+    },
+    {
+        "rank": "74",
+        "title": "Help Me",
+        "artist": "Real Boston Richey",
+        "imageURL": "https://charts-static.billboard.com/img/2024/07/realbostonrichey-4gx-helpme-cv6-180x180.jpg"
+    },
+    {
+        "rank": "75",
+        "title": "I'm Gonna Love You",
+        "artist": "Cody Johnson & Carrie Underwood",
+        "imageURL": "https://charts-static.billboard.com/img/2024/10/cody-johnson-eoy-imgonnaloveyou-5gl-180x180.jpg"
+    },
+    {
+        "rank": "76",
+        "title": "Heart Of A Woman",
+        "artist": "Summer Walker",
+        "imageURL": "https://charts-static.billboard.com/img/2024/11/summerwalker-e1o-heartofawoman-3ww-180x180.jpg"
+    },
+    {
+        "rank": "77",
+        "title": "Liar",
+        "artist": "Jelly Roll",
+        "imageURL": "https://charts-static.billboard.com/img/2024/08/jelly-roll-7m0-liar-cer-180x180.jpg"
+    },
+    {
+        "rank": "78",
+        "title": "AGATS2 (Insecure)",
+        "artist": "Juice WRLD & Nicki Minaj",
+        "imageURL": "https://charts-static.billboard.com/img/2024/11/juice-wrld-as8-agats2insecure-38l-180x180.jpg"
+    },
+    {
+        "rank": "79",
+        "title": "St. Chroma",
+        "artist": "Tyler, The Creator Featuring Daniel Caesar",
+        "imageURL": "https://charts-static.billboard.com/img/2011/05/tyler-the-creator-loo-180x180.jpg"
+    },
+    {
+        "rank": "80",
+        "title": "The Party Never Ends",
+        "artist": "Juice WRLD",
+        "imageURL": "https://charts-static.billboard.com/img/2018/05/juice-wrld-as8-180x180.jpg"
+    },
+    {
+        "rank": "81",
+        "title": "Residuals",
+        "artist": "Chris Brown",
+        "imageURL": "https://charts-static.billboard.com/img/2005/07/chris-brown-94g-180x180.jpg"
+    },
+    {
+        "rank": "82",
+        "title": "4x4xU",
+        "artist": "Lainey Wilson",
+        "imageURL": "https://charts-static.billboard.com/img/2024/07/lainey-wilson-cu2-4x4xu-msh-180x180.jpg"
+    },
+    {
+        "rank": "83",
+        "title": "Gang Baby",
+        "artist": "NLE Choppa",
+        "imageURL": "https://charts-static.billboard.com/img/2019/03/nlechoppa-3ro-180x180.jpg"
+    },
+    {
+        "rank": "84",
+        "title": "Christmas Magic",
+        "artist": "Laufey",
+        "imageURL": "https://charts-static.billboard.com/img/2024/12/laufey-gnl-christmasmagic-i2u-180x180.jpg"
+    },
+    {
+        "rank": "85",
+        "title": "Dos Dias",
+        "artist": "Tito Double P & Peso Pluma",
+        "imageURL": "https://charts-static.billboard.com/img/2023/06/titodoublep-tye-180x180.jpg"
+    },
+    {
+        "rank": "86",
+        "title": "Dancing Through Life",
+        "artist": "Jonathan Bailey Featuring Ariana Grande, Ethan Slater, Marissa Bode & Cynthia Erivo",
+        "imageURL": "https://charts-static.billboard.com/img/2011/02/ariana-grande-q1f-87x87.jpg"
+    },
+    {
+        "rank": "87",
+        "title": "No One Mourns The Wicked",
+        "artist": "Ariana Grande Featuring Andy Nyman, Courtney-Mae Briggs, Jeff Goldblum, Sharon D. Clarke & Jenna Boyd",
+        "imageURL": "https://charts-static.billboard.com/img/2011/02/ariana-grande-q1f-87x87.jpg"
+    },
+    {
+        "rank": "88",
+        "title": "No Pole",
+        "artist": "Don Toliver",
+        "imageURL": "https://charts-static.billboard.com/img/2019/12/dontoliver-eav-180x180.jpg"
+    },
+    {
+        "rank": "89",
+        "title": "Disease",
+        "artist": "Lady Gaga",
+        "imageURL": "https://charts-static.billboard.com/img/2024/11/lady-gaga-r3b-disease-twz-180x180.jpg"
+    },
+    {
+        "rank": "90",
+        "title": "Messy",
+        "artist": "Lola Young",
+        "imageURL": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif"
+    },
+    {
+        "rank": "91",
+        "title": "KTM Drip",
+        "artist": "Juice WRLD",
+        "imageURL": "https://charts-static.billboard.com/img/2018/05/juice-wrld-as8-180x180.jpg"
+    },
+    {
+        "rank": "92",
+        "title": "The Wizard And I",
+        "artist": "Cynthia Erivo Featuring Michelle Yeoh",
+        "imageURL": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif"
+    },
+    {
+        "rank": "93",
+        "title": "Think I'm In Love With You",
+        "artist": "Chris Stapleton",
+        "imageURL": "https://charts-static.billboard.com/img/2023/09/chris-stapleton-igf-thinkiminlovewithyou-99q-180x180.jpg"
+    },
+    {
+        "rank": "94",
+        "title": "25",
+        "artist": "Rod Wave",
+        "imageURL": "https://charts-static.billboard.com/img/2019/06/rod-wave-qt2-180x180.jpg"
+    },
+    {
+        "rank": "95",
+        "title": "Cuffed",
+        "artist": "Juice WRLD",
+        "imageURL": "https://charts-static.billboard.com/img/2018/05/juice-wrld-as8-180x180.jpg"
+    },
+    {
+        "rank": "96",
+        "title": "Juno",
+        "artist": "Sabrina Carpenter",
+        "imageURL": "https://charts-static.billboard.com/img/2014/06/sabrina-carpenter-3b3-180x180.jpg"
+    },
+    {
+        "rank": "97",
+        "title": "High Road",
+        "artist": "Zach Bryan",
+        "imageURL": "https://charts-static.billboard.com/img/2024/11/zachbryan-de1-highroad-2bd-180x180.jpg"
+    },
+    {
+        "rank": "98",
+        "title": "I'm Not That Girl",
+        "artist": "Cynthia Erivo",
+        "imageURL": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif"
+    },
+    {
+        "rank": "99",
+        "title": "Winter Ahead",
+        "artist": "V With Park Hyo Shin",
+        "imageURL": "https://charts-static.billboard.com/img/2024/12/v-000-winterahead-hlk-180x180.jpg"
+    },
+    {
+        "rank": "100",
+        "title": "Close To You",
+        "artist": "Gracie Abrams",
+        "imageURL": "https://charts-static.billboard.com/img/2020/10/gracie-abrams-wqa-180x180.jpg"
+    }
+]
