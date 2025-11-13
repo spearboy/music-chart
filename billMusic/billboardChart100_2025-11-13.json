@@ -1,0 +1,602 @@
+[
+    {
+        "rank": "1",
+        "title": "The Fate Of Ophelia",
+        "artist": "Taylor Swift",
+        "imageURL": "https://charts-static.billboard.com/img/2006/07/taylor-swift-vug-180x180.jpg"
+    },
+    {
+        "rank": "2",
+        "title": "Golden",
+        "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
+        "imageURL": "https://charts-static.billboard.com/img/2025/07/huntrxejaeaudreynunareiami-o2t-golden-ozh-180x180.jpg"
+    },
+    {
+        "rank": "3",
+        "title": "Ordinary",
+        "artist": "Alex Warren",
+        "imageURL": "https://charts-static.billboard.com/img/2025/02/alexwarren-vcb-ordinary-jb8-180x180.jpg"
+    },
+    {
+        "rank": "4",
+        "title": "Opalite",
+        "artist": "Taylor Swift",
+        "imageURL": "https://charts-static.billboard.com/img/2006/07/taylor-swift-vug-180x180.jpg"
+    },
+    {
+        "rank": "5",
+        "title": "Man I Need",
+        "artist": "Olivia Dean",
+        "imageURL": "https://charts-static.billboard.com/img/2025/08/oliviadean-lxn-manineed-jej-180x180.jpg"
+    },
+    {
+        "rank": "6",
+        "title": "Daisies",
+        "artist": "Justin Bieber",
+        "imageURL": "https://charts-static.billboard.com/img/2009/07/justin-bieber-dj8-180x180.jpg"
+    },
+    {
+        "rank": "7",
+        "title": "Folded",
+        "artist": "Kehlani",
+        "imageURL": "https://charts-static.billboard.com/img/2025/06/kehlani-48p-folded-beh-180x180.jpg"
+    },
+    {
+        "rank": "8",
+        "title": "Mutt",
+        "artist": "Leon Thomas",
+        "imageURL": "https://charts-static.billboard.com/img/2024/10/leonthomas-y3w-mutt-ch5-180x180.jpg"
+    },
+    {
+        "rank": "9",
+        "title": "I Got Better",
+        "artist": "Morgan Wallen",
+        "imageURL": "https://charts-static.billboard.com/img/2025/05/morgan-wallen-eos-igotbetter-8s9-180x180.jpg"
+    },
+    {
+        "rank": "10",
+        "title": "Thriller",
+        "artist": "Michael Jackson",
+        "imageURL": "https://charts-static.billboard.com/img/1984/02/michael-jackson-y4h-thriller-kni-180x180.jpg"
+    },
+    {
+        "rank": "11",
+        "title": "Back To Friends",
+        "artist": "sombr",
+        "imageURL": "https://charts-static.billboard.com/img/2025/02/sombr-kpn-backtofriends-xkb-180x180.jpg"
+    },
+    {
+        "rank": "12",
+        "title": "Soda Pop",
+        "artist": "Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee",
+        "imageURL": "https://charts-static.billboard.com/img/2025/07/sajaboysandrewchoineckwavdannychungkevinwoosamuillee-bpl-sodapop-81d-180x180.jpg"
+    },
+    {
+        "rank": "13",
+        "title": "Elizabeth Taylor",
+        "artist": "Taylor Swift",
+        "imageURL": "https://charts-static.billboard.com/img/2006/07/taylor-swift-vug-180x180.jpg"
+    },
+    {
+        "rank": "14",
+        "title": "Your Idol",
+        "artist": "Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee",
+        "imageURL": "https://charts-static.billboard.com/img/2025/07/sajaboysandrewchoineckwavdannychungkevinwoosamuillee-bpl-youridol-tim-180x180.jpg"
+    },
+    {
+        "rank": "15",
+        "title": "What I Want",
+        "artist": "Morgan Wallen Featuring Tate McRae",
+        "imageURL": "https://charts-static.billboard.com/img/2016/08/morgan-wallen-eos-180x180.jpg"
+    },
+    {
+        "rank": "16",
+        "title": "It Depends",
+        "artist": "Chris Brown Featuring Bryson Tiller",
+        "imageURL": "https://charts-static.billboard.com/img/2025/08/chris-brown-t69-itdepends-6sf-180x180.jpg"
+    },
+    {
+        "rank": "17",
+        "title": "Tears",
+        "artist": "Sabrina Carpenter",
+        "imageURL": "https://charts-static.billboard.com/img/2014/06/sabrina-carpenter-l0r-180x180.jpg"
+    },
+    {
+        "rank": "18",
+        "title": "Manchild",
+        "artist": "Sabrina Carpenter",
+        "imageURL": "https://charts-static.billboard.com/img/2025/06/sabrina-carpenter-l0r-manchild-cmz-180x180.jpg"
+    },
+    {
+        "rank": "19",
+        "title": "Love Me Not",
+        "artist": "Ravyn Lenae",
+        "imageURL": "https://charts-static.billboard.com/img/2025/01/ravynlenae-qqs-lovemenot-et7-180x180.jpg"
+    },
+    {
+        "rank": "20",
+        "title": "Father Figure",
+        "artist": "Taylor Swift",
+        "imageURL": "https://charts-static.billboard.com/img/2006/07/taylor-swift-vug-180x180.jpg"
+    },
+    {
+        "rank": "21",
+        "title": "Monster Mash",
+        "artist": "Bobby \"Boris\" Pickett And The Crypt-Kickers",
+        "imageURL": "https://charts-static.billboard.com/img/1962/09/bobby-boris-pickett-and-the-crypt-kickers-000-monstermash-mjg-180x180.jpg"
+    },
+    {
+        "rank": "22",
+        "title": "Ghostbusters",
+        "artist": "Ray Parker Jr.",
+        "imageURL": "https://charts-static.billboard.com/img/1984/06/ray-parker-jr-000-ghostbusters-b4m-180x180.jpg"
+    },
+    {
+        "rank": "23",
+        "title": "How It's Done",
+        "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
+        "imageURL": "https://charts-static.billboard.com/img/2025/07/huntrxejaeaudreynunareiami-o2t-howitsdone-3mh-180x180.jpg"
+    },
+    {
+        "rank": "24",
+        "title": "Somebody's Watching Me",
+        "artist": "Rockwell",
+        "imageURL": "https://charts-static.billboard.com/img/1984/01/rockwell-000-somebodyswatchingme-kxm-180x180.jpg"
+    },
+    {
+        "rank": "25",
+        "title": "Choosin' Texas",
+        "artist": "Ella Langley",
+        "imageURL": "https://charts-static.billboard.com/img/2023/06/ellalangley-j32-180x180.jpg"
+    },
+    {
+        "rank": "26",
+        "title": "This Is Halloween",
+        "artist": "The Citizens of Halloween",
+        "imageURL": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif"
+    },
+    {
+        "rank": "27",
+        "title": "Tit For Tat",
+        "artist": "Tate McRae",
+        "imageURL": "https://charts-static.billboard.com/img/2019/11/tatemcrae-vd8-180x180.jpg"
+    },
+    {
+        "rank": "28",
+        "title": "Wi$h Li$t",
+        "artist": "Taylor Swift",
+        "imageURL": "https://charts-static.billboard.com/img/2006/07/taylor-swift-vug-180x180.jpg"
+    },
+    {
+        "rank": "29",
+        "title": "What It Sounds Like",
+        "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
+        "imageURL": "https://charts-static.billboard.com/img/2025/07/huntrxejaeaudreynunareiami-o2t-whatitsoundslike-hu2-180x180.jpg"
+    },
+    {
+        "rank": "30",
+        "title": "Dracula",
+        "artist": "Tame Impala",
+        "imageURL": "https://charts-static.billboard.com/img/2010/07/tame-impala-nyr-180x180.jpg"
+    },
+    {
+        "rank": "31",
+        "title": "All I Want For Christmas Is You",
+        "artist": "Mariah Carey",
+        "imageURL": "https://charts-static.billboard.com/img/1994/12/mariah-carey-qmg-alliwantforchristmasisyou-7ve-180x180.jpg"
+    },
+    {
+        "rank": "32",
+        "title": "The Life Of A Showgirl",
+        "artist": "Taylor Swift Featuring Sabrina Carpenter",
+        "imageURL": "https://charts-static.billboard.com/img/2006/07/taylor-swift-vug-180x180.jpg"
+    },
+    {
+        "rank": "33",
+        "title": "Gabriela",
+        "artist": "KATSEYE",
+        "imageURL": "https://charts-static.billboard.com/img/2025/07/katseye-xrz-gabriela-iea-180x180.jpg"
+    },
+    {
+        "rank": "34",
+        "title": "Happen To Me",
+        "artist": "Russell Dickerson",
+        "imageURL": "https://charts-static.billboard.com/img/2025/03/russell-dickerson-aem-happentome-tcj-180x180.jpg"
+    },
+    {
+        "rank": "35",
+        "title": "Takedown",
+        "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
+        "imageURL": "https://charts-static.billboard.com/img/2025/07/huntrxejaeaudreynunareiami-o2t-180x180.jpg"
+    },
+    {
+        "rank": "36",
+        "title": "No Broke Boys",
+        "artist": "Disco Lines & Tinashe",
+        "imageURL": "https://charts-static.billboard.com/img/2025/06/discolines-hzk-nobrokeboys-gbu-180x180.jpg"
+    },
+    {
+        "rank": "37",
+        "title": "Wood",
+        "artist": "Taylor Swift",
+        "imageURL": "https://charts-static.billboard.com/img/2006/07/taylor-swift-vug-180x180.jpg"
+    },
+    {
+        "rank": "38",
+        "title": "Actually Romantic",
+        "artist": "Taylor Swift",
+        "imageURL": "https://charts-static.billboard.com/img/2006/07/taylor-swift-vug-180x180.jpg"
+    },
+    {
+        "rank": "39",
+        "title": "Free",
+        "artist": "Rumi, JINU, EJAE & Andrew Choi",
+        "imageURL": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/public/lazyload-fallback.gif"
+    },
+    {
+        "rank": "40",
+        "title": "Back In The Saddle",
+        "artist": "Luke Combs",
+        "imageURL": "https://charts-static.billboard.com/img/2025/08/luke-combs-vjy-backinthesaddle-8bn-180x180.jpg"
+    },
+    {
+        "rank": "41",
+        "title": "Cancelled!",
+        "artist": "Taylor Swift",
+        "imageURL": "https://charts-static.billboard.com/img/2006/07/taylor-swift-vug-180x180.jpg"
+    },
+    {
+        "rank": "42",
+        "title": "6 Months Later",
+        "artist": "Megan Moroney",
+        "imageURL": "https://charts-static.billboard.com/img/2025/07/meganmoroney-1wq-6monthslater-74i-180x180.jpg"
+    },
+    {
+        "rank": "43",
+        "title": "Last Christmas",
+        "artist": "Wham!",
+        "imageURL": "https://charts-static.billboard.com/img/1998/01/wham-pyz-lastchristmas-xhm-180x180.jpg"
+    },
+    {
+        "rank": "44",
+        "title": "Don't Mind If I Do",
+        "artist": "Riley Green Featuring Ella Langley",
+        "imageURL": "https://charts-static.billboard.com/img/2024/11/riley-green-flo-dontmindifido-5mc-180x180.jpg"
+    },
+    {
+        "rank": "45",
+        "title": "Yukon",
+        "artist": "Justin Bieber",
+        "imageURL": "https://charts-static.billboard.com/img/2009/07/justin-bieber-dj8-180x180.jpg"
+    },
+    {
+        "rank": "46",
+        "title": "So Easy (To Fall In Love)",
+        "artist": "Olivia Dean",
+        "imageURL": "https://charts-static.billboard.com/img/2022/01/oliviadean-8k4-180x180.jpg"
+    },
+    {
+        "rank": "47",
+        "title": "Shot Callin",
+        "artist": "YoungBoy Never Broke Again",
+        "imageURL": "https://charts-static.billboard.com/img/2025/05/youngboy-never-broke-again-7nh-shotcallin-a7o-180x180.jpg"
+    },
+    {
+        "rank": "48",
+        "title": "Somewhere Over Laredo",
+        "artist": "Lainey Wilson",
+        "imageURL": "https://charts-static.billboard.com/img/2025/05/lainey-wilson-wci-somewhereoverlaredo-3ei-180x180.jpg"
+    },
+    {
+        "rank": "49",
+        "title": "Eldest Daughter",
+        "artist": "Taylor Swift",
+        "imageURL": "https://charts-static.billboard.com/img/2006/07/taylor-swift-vug-180x180.jpg"
+    },
+    {
+        "rank": "50",
+        "title": "wgft",
+        "artist": "Gunna Featuring Burna Boy",
+        "imageURL": "https://charts-static.billboard.com/img/2016/09/gunna-t8f-180x180.jpg"
+    },
+    {
+        "rank": "51",
+        "title": "Ruin The Friendship",
+        "artist": "Taylor Swift",
+        "imageURL": "https://charts-static.billboard.com/img/2006/07/taylor-swift-vug-180x180.jpg"
+    },
+    {
+        "rank": "52",
+        "title": "Hell At Night",
+        "artist": "BigXthaPlug Featuring Ella Langley",
+        "imageURL": "https://charts-static.billboard.com/img/2023/02/bigxthaplug-b4l-180x180.jpg"
+    },
+    {
+        "rank": "53",
+        "title": "Is It A Crime",
+        "artist": "Mariah the Scientist & Kali Uchis",
+        "imageURL": "https://charts-static.billboard.com/img/2021/01/mariahthescientist-nuo-180x180.jpg"
+    },
+    {
+        "rank": "54",
+        "title": "House Again",
+        "artist": "Hudson Westbrook",
+        "imageURL": "https://charts-static.billboard.com/img/2024/11/hudsonwestbrook-9ly-houseagain-zq0-180x180.jpg"
+    },
+    {
+        "rank": "55",
+        "title": "Honey",
+        "artist": "Taylor Swift",
+        "imageURL": "https://charts-static.billboard.com/img/2006/07/taylor-swift-vug-180x180.jpg"
+    },
+    {
+        "rank": "56",
+        "title": "Darlin'",
+        "artist": "Chase Matthew",
+        "imageURL": "https://charts-static.billboard.com/img/2024/09/chasematthew-iyz-darlin-vto-180x180.jpg"
+    },
+    {
+        "rank": "57",
+        "title": "The Dead Dance",
+        "artist": "Lady Gaga",
+        "imageURL": "https://charts-static.billboard.com/img/2025/09/lady-gaga-p9u-thedeaddance-ujm-180x180.jpg"
+    },
+    {
+        "rank": "58",
+        "title": "Jealous Type",
+        "artist": "Doja Cat",
+        "imageURL": "https://charts-static.billboard.com/img/2025/09/dojacat-cim-jealoustype-nm7-180x180.jpg"
+    },
+    {
+        "rank": "59",
+        "title": "Safe",
+        "artist": "Cardi B Featuring Kehlani",
+        "imageURL": "https://charts-static.billboard.com/img/2016/03/cardi-b-tfu-180x180.jpg"
+    },
+    {
+        "rank": "60",
+        "title": "Better Me For You (Brown Eyes)",
+        "artist": "Max McNown",
+        "imageURL": "https://charts-static.billboard.com/img/2024/11/maxmcnown-0ht-bettermeforyoubrowneyes-h8h-180x180.jpg"
+    },
+    {
+        "rank": "61",
+        "title": "Nice To Meet You",
+        "artist": "Myles Smith",
+        "imageURL": "https://charts-static.billboard.com/img/2024/05/mylessmith-w4f-180x180.jpg"
+    },
+    {
+        "rank": "62",
+        "title": "20 Cigarettes",
+        "artist": "Morgan Wallen",
+        "imageURL": "https://charts-static.billboard.com/img/2016/08/morgan-wallen-eos-180x180.jpg"
+    },
+    {
+        "rank": "63",
+        "title": "Last One To Know",
+        "artist": "Gavin Adcock",
+        "imageURL": "https://charts-static.billboard.com/img/2024/08/gavinadcock-zdi-180x180.jpg"
+    },
+    {
+        "rank": "64",
+        "title": "Sugar On My Tongue",
+        "artist": "Tyler, the Creator",
+        "imageURL": "https://charts-static.billboard.com/img/2011/05/tyler-the-creator-qnq-180x180.jpg"
+    },
+    {
+        "rank": "65",
+        "title": "Where Is My Husband!",
+        "artist": "RAYE",
+        "imageURL": "https://charts-static.billboard.com/img/2015/09/raye-dj0-180x180.jpg"
+    },
+    {
+        "rank": "66",
+        "title": "12 To 12",
+        "artist": "sombr",
+        "imageURL": "https://charts-static.billboard.com/img/2025/08/sombr-kpn-12to12-142-180x180.jpg"
+    },
+    {
+        "rank": "67",
+        "title": "When Did You Get Hot?",
+        "artist": "Sabrina Carpenter",
+        "imageURL": "https://charts-static.billboard.com/img/2014/06/sabrina-carpenter-l0r-180x180.jpg"
+    },
+    {
+        "rank": "68",
+        "title": "Camera",
+        "artist": "Ed Sheeran",
+        "imageURL": "https://charts-static.billboard.com/img/2011/07/ed-sheeran-5jf-180x180.jpg"
+    },
+    {
+        "rank": "69",
+        "title": "Take Me Thru Dere",
+        "artist": "Metro Boomin, Quavo, Breskii & YKNIECE",
+        "imageURL": "https://charts-static.billboard.com/img/2013/08/metro-boomin-koo-180x180.jpg"
+    },
+    {
+        "rank": "70",
+        "title": "The Fall",
+        "artist": "Cody Johnson",
+        "imageURL": "https://charts-static.billboard.com/img/2025/05/cody-johnson-eoy-thefall-rvi-180x180.jpg"
+    },
+    {
+        "rank": "71",
+        "title": "Heavens To Betsy",
+        "artist": "Jackson Dean",
+        "imageURL": "https://charts-static.billboard.com/img/2024/09/jacksondean-9lx-heavenstobetsy-4cx-180x180.jpg"
+    },
+    {
+        "rank": "72",
+        "title": "Bottle Rockets",
+        "artist": "Scotty McCreery & Hootie & The Blowfish",
+        "imageURL": "https://charts-static.billboard.com/img/2025/05/scotty-mccreery-3w0-bottlerockets-fda-180x180.jpg"
+    },
+    {
+        "rank": "73",
+        "title": "Strategy",
+        "artist": "Twice",
+        "imageURL": "https://charts-static.billboard.com/img/2024/12/twice-1wj-strategy-z1j-180x180.jpg"
+    },
+    {
+        "rank": "74",
+        "title": "What Kinda Man",
+        "artist": "Parker McCollum",
+        "imageURL": "https://charts-static.billboard.com/img/2024/09/parker-mccollum-16j-whatkindaman-6mj-180x180.jpg"
+    },
+    {
+        "rank": "75",
+        "title": "Heart Of Stone",
+        "artist": "Jelly Roll",
+        "imageURL": "https://charts-static.billboard.com/img/2024/10/jelly-roll-7m0-heartofstone-9jj-180x180.jpg"
+    },
+    {
+        "rank": "76",
+        "title": "Sparks",
+        "artist": "Coldplay",
+        "imageURL": "https://charts-static.billboard.com/img/2000/11/coldplay-bm3-180x180.jpg"
+    },
+    {
+        "rank": "77",
+        "title": "Takedown",
+        "artist": "JEONGYEON, JIHYO & CHAEYOUNG Of TWICE",
+        "imageURL": "https://charts-static.billboard.com/img/2025/07/jeongyeon-000-takedown-h5r-180x180.jpg"
+    },
+    {
+        "rank": "78",
+        "title": "Went Legit",
+        "artist": "G Herbo",
+        "imageURL": "https://charts-static.billboard.com/img/2015/09/g-herbo-oau-180x180.jpg"
+    },
+    {
+        "rank": "79",
+        "title": "Days Like These",
+        "artist": "Luke Combs",
+        "imageURL": "https://charts-static.billboard.com/img/2015/07/luke-combs-vjy-180x180.jpg"
+    },
+    {
+        "rank": "80",
+        "title": "Lover Girl",
+        "artist": "Megan Thee Stallion",
+        "imageURL": "https://charts-static.billboard.com/img/2019/01/megan-thee-stallion-pe8-180x180.jpg"
+    },
+    {
+        "rank": "81",
+        "title": "What You Is",
+        "artist": "YoungBoy Never Broke Again & Mellow Rackz",
+        "imageURL": "https://charts-static.billboard.com/img/2017/06/youngboy-never-broke-again-7nh-180x180.jpg"
+    },
+    {
+        "rank": "82",
+        "title": "Amen",
+        "artist": "Shaboozey & Jelly Roll",
+        "imageURL": "https://charts-static.billboard.com/img/2019/01/shaboozey-2wm-180x180.jpg"
+    },
+    {
+        "rank": "83",
+        "title": "A Couple Minutes",
+        "artist": "Olivia Dean",
+        "imageURL": "https://charts-static.billboard.com/img/2022/01/oliviadean-8k4-180x180.jpg"
+    },
+    {
+        "rank": "84",
+        "title": "How Far Does A Goodbye Go",
+        "artist": "Jason Aldean",
+        "imageURL": "https://charts-static.billboard.com/img/2005/04/jason-aldean-pzx-180x180.jpg"
+    },
+    {
+        "rank": "85",
+        "title": "Beautiful Things",
+        "artist": "Megan Moroney",
+        "imageURL": "https://charts-static.billboard.com/img/2022/09/meganmoroney-1wq-180x180.jpg"
+    },
+    {
+        "rank": "86",
+        "title": "Sienna",
+        "artist": "The Marias",
+        "imageURL": "https://charts-static.billboard.com/img/2018/09/themarias-mjs-180x180.jpg"
+    },
+    {
+        "rank": "87",
+        "title": "Bar None",
+        "artist": "Jordan Davis",
+        "imageURL": "https://charts-static.billboard.com/img/2025/04/jordan-davis-wxd-barnone-djc-180x180.jpg"
+    },
+    {
+        "rank": "88",
+        "title": "Nobody's Son",
+        "artist": "Sabrina Carpenter",
+        "imageURL": "https://charts-static.billboard.com/img/2014/06/sabrina-carpenter-l0r-180x180.jpg"
+    },
+    {
+        "rank": "89",
+        "title": "Spaghetti",
+        "artist": "Le Sserafim & J-Hope",
+        "imageURL": "https://charts-static.billboard.com/img/2022/05/lesserafim-55f-180x180.jpg"
+    },
+    {
+        "rank": "90",
+        "title": "Favorite Country Song",
+        "artist": "HARDY",
+        "imageURL": "https://charts-static.billboard.com/img/2025/04/hardy-zl2-favoritecountrysong-jny-180x180.jpg"
+    },
+    {
+        "rank": "91",
+        "title": "I Ain't Coming Back",
+        "artist": "Morgan Wallen Featuring Post Malone",
+        "imageURL": "https://charts-static.billboard.com/img/2025/05/morgan-wallen-eos-iaintcomingback-l13-180x180.jpg"
+    },
+    {
+        "rank": "92",
+        "title": "Wish",
+        "artist": "Diplo Featuring Trippie Redd",
+        "imageURL": "https://charts-static.billboard.com/img/2008/11/diplo-4il-180x180.jpg"
+    },
+    {
+        "rank": "93",
+        "title": "Come N Go",
+        "artist": "Yeat",
+        "imageURL": "https://charts-static.billboard.com/img/2021/09/yeat-n8h-180x180.jpg"
+    },
+    {
+        "rank": "94",
+        "title": "3,2,1",
+        "artist": "Tucker Wetmore",
+        "imageURL": "https://charts-static.billboard.com/img/2025/03/tuckerwetmore-ras-321-17q-180x180.jpg"
+    },
+    {
+        "rank": "95",
+        "title": "I'm Not There For You",
+        "artist": "jessie murph",
+        "imageURL": "https://charts-static.billboard.com/img/2021/12/jessiemurph-my0-180x180.jpg"
+    },
+    {
+        "rank": "96",
+        "title": "Breakin' Dishes",
+        "artist": "Rihanna",
+        "imageURL": "https://charts-static.billboard.com/img/2005/06/rihanna-87k-180x180.jpg"
+    },
+    {
+        "rank": "97",
+        "title": "Shake It To The Max (Fly)",
+        "artist": "MOLIY, Silent Addy, Skillibeng & Shenseea",
+        "imageURL": "https://charts-static.billboard.com/img/2025/03/moliy-000-shakeittothemaxfly-v8w-180x180.jpg"
+    },
+    {
+        "rank": "98",
+        "title": "Let Down",
+        "artist": "Radiohead",
+        "imageURL": "https://charts-static.billboard.com/img/1993/04/radiohead-9k6-180x180.jpg"
+    },
+    {
+        "rank": "99",
+        "title": "3am",
+        "artist": "Loe Shimmy & Don Toliver",
+        "imageURL": "https://charts-static.billboard.com/img/2024/04/loeshimmy-9te-180x180.jpg"
+    },
+    {
+        "rank": "100",
+        "title": "Nice To Each Other",
+        "artist": "Olivia Dean",
+        "imageURL": "https://charts-static.billboard.com/img/2022/01/oliviadean-8k4-180x180.jpg"
+    }
+]
