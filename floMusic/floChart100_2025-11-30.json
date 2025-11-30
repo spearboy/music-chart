@@ -1,0 +1,702 @@
+[
+    {
+        "rank": "1",
+        "title": "Good Goodbye",
+        "artist": "화사 (HWASA)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/769/501/44/04/444501769_186e4634b49961b6_s.jpg?1760421698927/dims/resize/140x140/quality/90",
+        "album": "Good Goodbye"
+    },
+    {
+        "rank": "2",
+        "title": "Blue Valentine",
+        "artist": "NMIXX",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/665/888/43/04/443888665_1869a1495f762b06_s.jpg?1759114467602/dims/resize/140x140/quality/90",
+        "album": "Blue Valentine"
+    },
+    {
+        "rank": "3",
+        "title": "Golden",
+        "artist": "HUNTR/X",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/607/552/39/04/439552607_184a9bab2623454b_o.jpg?1750382565141/dims/resize/140x140/quality/90",
+        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
+    },
+    {
+        "rank": "4",
+        "title": "ONE MORE TIME",
+        "artist": "ALLDAY PROJECT",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/052/964/45/04/445964052_18789e85bd75b354_s.jpg?1763333553248/dims/resize/140x140/quality/90",
+        "album": "ONE MORE TIME"
+    },
+    {
+        "rank": "5",
+        "title": "사랑은 늘 도망가",
+        "artist": "임영웅",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/973/716/06/04/406716973_615eb227_s.jpg?1633595946672/dims/resize/140x140/quality/90",
+        "album": "신사와 아가씨 OST Part.2"
+    },
+    {
+        "rank": "6",
+        "title": "타임캡슐",
+        "artist": "다비치",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/319/550/44/04/444550319_186e97cee6b9b8db_s.jpg?1760511420660/dims/resize/140x140/quality/90",
+        "album": "타임캡슐"
+    },
+    {
+        "rank": "7",
+        "title": "순간을 영원처럼",
+        "artist": "임영웅",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/031/628/42/04/442628031_185fd9069efde772_s.jpg?1756361003313/dims/resize/140x140/quality/90",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "8",
+        "title": "우리들의 블루스",
+        "artist": "임영웅",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/827/064/08/04/408064827_626f999f_s.jpg?1651480994126/dims/resize/140x140/quality/90",
+        "album": "IM HERO"
+    },
+    {
+        "rank": "9",
+        "title": "다시 만날 수 있을까",
+        "artist": "임영웅",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/827/064/08/04/408064827_626f999f_s.jpg?1651480994126/dims/resize/140x140/quality/90",
+        "album": "IM HERO"
+    },
+    {
+        "rank": "10",
+        "title": "Wonderful Life",
+        "artist": "임영웅",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/031/628/42/04/442628031_185fd9069efde772_s.jpg?1756361003313/dims/resize/140x140/quality/90",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "11",
+        "title": "들꽃이 될게요",
+        "artist": "임영웅",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/031/628/42/04/442628031_185fd9069efde772_s.jpg?1756361003313/dims/resize/140x140/quality/90",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "12",
+        "title": "알겠어요 미안해요",
+        "artist": "임영웅",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/031/628/42/04/442628031_185fd9069efde772_s.jpg?1756361003313/dims/resize/140x140/quality/90",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "13",
+        "title": "그댈 위한 멜로디",
+        "artist": "임영웅",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/031/628/42/04/442628031_185fd9069efde772_s.jpg?1756361003313/dims/resize/140x140/quality/90",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "14",
+        "title": "ULSSIGU",
+        "artist": "임영웅",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/031/628/42/04/442628031_185fd9069efde772_s.jpg?1756361003313/dims/resize/140x140/quality/90",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "15",
+        "title": "비가 와서",
+        "artist": "임영웅",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/031/628/42/04/442628031_185fd9069efde772_s.jpg?1756361003313/dims/resize/140x140/quality/90",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "16",
+        "title": "답장을 보낸지",
+        "artist": "임영웅",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/031/628/42/04/442628031_185fd9069efde772_s.jpg?1756361003313/dims/resize/140x140/quality/90",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "17",
+        "title": "돌아보지 마세요",
+        "artist": "임영웅",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/031/628/42/04/442628031_185fd9069efde772_s.jpg?1756361003313/dims/resize/140x140/quality/90",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "18",
+        "title": "천국보다 아름다운",
+        "artist": "임영웅",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/125/681/36/04/436681125_183609c7f2970dc9_o.jpg?1744592660690/dims/resize/140x140/quality/90",
+        "album": "천국보다 아름다운"
+    },
+    {
+        "rank": "19",
+        "title": "Drowning",
+        "artist": "WOODZ",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/413/666/11/04/411666413_6448df60_s.jpg?1682497378566/dims/resize/140x140/quality/90",
+        "album": "OO-LI"
+    },
+    {
+        "rank": "20",
+        "title": "우리에게 안녕",
+        "artist": "임영웅",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/031/628/42/04/442628031_185fd9069efde772_s.jpg?1756361003313/dims/resize/140x140/quality/90",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "21",
+        "title": "나는야 HERO",
+        "artist": "임영웅",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/031/628/42/04/442628031_185fd9069efde772_s.jpg?1756361003313/dims/resize/140x140/quality/90",
+        "album": "IM HERO 2"
+    },
+    {
+        "rank": "22",
+        "title": "Soda Pop",
+        "artist": "Saja Boys",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/607/552/39/04/439552607_184a9bab2623454b_o.jpg?1750382565141/dims/resize/140x140/quality/90",
+        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
+    },
+    {
+        "rank": "23",
+        "title": "SPAGHETTI (feat. j-hope of BTS)",
+        "artist": "LE SSERAFIM (르세라핌)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/483/829/44/04/444829483_18714622f0610597_s.jpg?1761266046731/dims/resize/140x140/quality/90",
+        "album": "SPAGHETTI"
+    },
+    {
+        "rank": "24",
+        "title": "뛰어(JUMP)",
+        "artist": "BLACKPINK",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/308/514/40/04/440514308_185109979d90dfd0_s.jpg?1752192279395/dims/resize/140x140/quality/90",
+        "album": "뛰어(JUMP)"
+    },
+    {
+        "rank": "25",
+        "title": "멸종위기사랑",
+        "artist": "이찬혁",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/268/517/40/04/440517268_1851f93adfe7d1cd_s.jpg?1752455763400/dims/resize/140x140/quality/90",
+        "album": "EROS"
+    },
+    {
+        "rank": "26",
+        "title": "FAMOUS",
+        "artist": "ALLDAY PROJECT",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/026/455/39/04/439455026_184b5728a5ad4c04_s.jpg?1750588714258/dims/resize/140x140/quality/90",
+        "album": "FAMOUS"
+    },
+    {
+        "rank": "27",
+        "title": "어제보다 슬픈 오늘",
+        "artist": "우디 (Woody)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/629/975/35/04/435975629_1831bf8e346bf954_s.jpg?1743385151003/dims/resize/140x140/quality/90",
+        "album": "어제보다 슬픈 오늘"
+    },
+    {
+        "rank": "28",
+        "title": "사랑하게 될 거야",
+        "artist": "한로로",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/687/621/16/04/416621687_64e443fe_s.jpg?1692681216750/dims/resize/140x140/quality/90",
+        "album": "이상비행"
+    },
+    {
+        "rank": "29",
+        "title": "모르시나요(PROD.로코베리)",
+        "artist": "조째즈",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/702/783/32/04/432783702_18180526a3881ff7_s.jpg?1736143321148/dims/resize/140x140/quality/90",
+        "album": "모르시나요"
+    },
+    {
+        "rank": "30",
+        "title": "IRIS OUT",
+        "artist": "Yonezu Kenshi",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/244/932/42/04/442932244_18620eb6dad05019_o.jpg?1756982983535/dims/resize/140x140/quality/90",
+        "album": "IRIS OUT"
+    },
+    {
+        "rank": "31",
+        "title": "달리 표현할 수 없어요",
+        "artist": "로이킴",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/829/832/44/04/444832829_18714b92870cf010_s.jpg?1761272023548/dims/resize/140x140/quality/90",
+        "album": "달리 표현할 수 없어요"
+    },
+    {
+        "rank": "32",
+        "title": "XOXZ",
+        "artist": "IVE (아이브)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/483/378/42/04/442378483_185df6a185549169_o.jpg?1755830604335/dims/resize/140x140/quality/90",
+        "album": "IVE SECRET"
+    },
+    {
+        "rank": "33",
+        "title": "빛이 나는 사람",
+        "artist": "김호중",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/866/591/08/04/408591866_62ac1021_o.jpg?1655443490886/dims/resize/140x140/quality/90",
+        "album": "빛이 나는 사람"
+    },
+    {
+        "rank": "34",
+        "title": "그대... 떠나도",
+        "artist": "김호중",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/784/783/23/04/423783784_660cf336_s.jpg?1712124727498/dims/resize/140x140/quality/90",
+        "album": "A LIFE(세상)"
+    },
+    {
+        "rank": "35",
+        "title": "쏜살",
+        "artist": "김호중",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/784/783/23/04/423783784_660cf336_s.jpg?1712124727498/dims/resize/140x140/quality/90",
+        "album": "A LIFE(세상)"
+    },
+    {
+        "rank": "36",
+        "title": "봄날에",
+        "artist": "김호중",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/784/783/23/04/423783784_660cf336_s.jpg?1712124727498/dims/resize/140x140/quality/90",
+        "album": "A LIFE(세상)"
+    },
+    {
+        "rank": "37",
+        "title": "함께 가 줄래",
+        "artist": "김호중",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/784/783/23/04/423783784_660cf336_s.jpg?1712124727498/dims/resize/140x140/quality/90",
+        "album": "A LIFE(세상)"
+    },
+    {
+        "rank": "38",
+        "title": "바람이 부는 날엔",
+        "artist": "김호중",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/784/783/23/04/423783784_660cf336_s.jpg?1712124727498/dims/resize/140x140/quality/90",
+        "album": "A LIFE(세상)"
+    },
+    {
+        "rank": "39",
+        "title": "Whiplash",
+        "artist": "aespa",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/366/014/30/04/430014366_17ff7b7f55d08ac6_s.jpg?1729236571181/dims/resize/140x140/quality/90",
+        "album": "Whiplash - The 5th Mini Album"
+    },
+    {
+        "rank": "40",
+        "title": "별 헤는 밤",
+        "artist": "김호중",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/784/783/23/04/423783784_660cf336_s.jpg?1712124727498/dims/resize/140x140/quality/90",
+        "album": "A LIFE(세상)"
+    },
+    {
+        "rank": "41",
+        "title": "내게 사랑이 뭐냐고 물어본다면",
+        "artist": "로이킴",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/082/855/29/04/429855082_17fe3da863b9032d_s.jpg?1728887107509/dims/resize/140x140/quality/90",
+        "album": "내게 사랑이 뭐냐고 물어본다면"
+    },
+    {
+        "rank": "42",
+        "title": "너에게 닿기를",
+        "artist": "10CM",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/581/012/35/04/435012581_1829d2ff29ee7a2f_s.jpg?1741154725638/dims/resize/140x140/quality/90",
+        "album": "너에게 닿기를"
+    },
+    {
+        "rank": "43",
+        "title": "toxic till the end",
+        "artist": "로제 (ROSÉ)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/026/733/31/04/431733026_180e2eb729441b99_s.jpg?1733374274882/dims/resize/140x140/quality/90",
+        "album": "rosie"
+    },
+    {
+        "rank": "44",
+        "title": "Island",
+        "artist": "PLAVE",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/876/785/33/04/433785876_18208664876eadd6_s.jpg?1738537224170/dims/resize/140x140/quality/90",
+        "album": "Caligo Pt.1"
+    },
+    {
+        "rank": "45",
+        "title": "12:32 (A to T)",
+        "artist": "PLAVE",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/876/785/33/04/433785876_18208664876eadd6_s.jpg?1738537224170/dims/resize/140x140/quality/90",
+        "album": "Caligo Pt.1"
+    },
+    {
+        "rank": "46",
+        "title": "나는 반딧불",
+        "artist": "황가람",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/365/014/30/04/430014365_17ff7b7f145b3110_s.jpg?1729236569266/dims/resize/140x140/quality/90",
+        "album": "나는 반딧불"
+    },
+    {
+        "rank": "47",
+        "title": "Dash",
+        "artist": "PLAVE",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/876/785/33/04/433785876_18208664876eadd6_s.jpg?1738537224170/dims/resize/140x140/quality/90",
+        "album": "Caligo Pt.1"
+    },
+    {
+        "rank": "48",
+        "title": "like JENNIE",
+        "artist": "제니 (JENNIE)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/950/052/35/04/435052950_182a78042b944049_s.jpg?1741336168165/dims/resize/140x140/quality/90",
+        "album": "Ruby"
+    },
+    {
+        "rank": "49",
+        "title": "Flower",
+        "artist": "오반(OVAN)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/643/326/35/04/435326643_182bf8febaaf53d7_s.jpg?1741759455323/dims/resize/140x140/quality/90",
+        "album": "교회오빠"
+    },
+    {
+        "rank": "50",
+        "title": "APT.",
+        "artist": "로제 (ROSÉ)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/597/002/30/04/430002597_17ff635a5d7fe41b_o.jpg?1729210022613/dims/resize/140x140/quality/90",
+        "album": "APT."
+    },
+    {
+        "rank": "51",
+        "title": "어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
+        "artist": "AKMU (악뮤)",
+        "imageURL": "https://cdn.music-flo.com/image/album/537/299/03/04/403299537_5d8b03e3.jpg?1569391589964/dims/resize/140x140/quality/90",
+        "album": "항해"
+    },
+    {
+        "rank": "52",
+        "title": "Your Idol",
+        "artist": "Saja Boys",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/607/552/39/04/439552607_184a9bab2623454b_o.jpg?1750382565141/dims/resize/140x140/quality/90",
+        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
+    },
+    {
+        "rank": "53",
+        "title": "BBUU!",
+        "artist": "PLAVE",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/987/638/45/04/445638987_18767997e9fb565b_s.jpg?1762729998166/dims/resize/140x140/quality/90",
+        "album": "PLBBUU"
+    },
+    {
+        "rank": "54",
+        "title": "body",
+        "artist": "다영 (DAYOUNG)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/810/070/43/04/443070810_1863395e24ff67fb_s.jpg?1757311357213/dims/resize/140x140/quality/90",
+        "album": "gonna love me, right?"
+    },
+    {
+        "rank": "55",
+        "title": "RIZZ",
+        "artist": "PLAVE",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/876/785/33/04/433785876_18208664876eadd6_s.jpg?1738537224170/dims/resize/140x140/quality/90",
+        "album": "Caligo Pt.1"
+    },
+    {
+        "rank": "56",
+        "title": "숨바꼭질 (Hide and Seek)",
+        "artist": "PLAVE",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/862/251/43/04/443251862_186475d3bcbee3e5_o.jpeg?1757659307257/dims/resize/140x140/quality/90",
+        "album": "숨바꼭질 (Hide and Seek)"
+    },
+    {
+        "rank": "57",
+        "title": "천상연",
+        "artist": "이창섭",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/793/226/22/04/422226793_65d1f411_o.jpg?1708258323672/dims/resize/140x140/quality/90",
+        "album": "천상연 (웹툰 '선녀외전' X 이창섭 (LEE CHANGSUB))"
+    },
+    {
+        "rank": "58",
+        "title": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))",
+        "artist": "너드커넥션 (Nerd Connection)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/727/414/16/04/416414727_64d98aed_s.jpg?1691978480349/dims/resize/140x140/quality/90",
+        "album": "그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))"
+    },
+    {
+        "rank": "59",
+        "title": "Chroma Drift",
+        "artist": "PLAVE",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/876/785/33/04/433785876_18208664876eadd6_s.jpg?1738537224170/dims/resize/140x140/quality/90",
+        "album": "Caligo Pt.1"
+    },
+    {
+        "rank": "60",
+        "title": "가까운 듯 먼 그대여",
+        "artist": "카더가든",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/599/496/06/04/406496599_6125f0dd_o.jpg?1629876445994/dims/resize/140x140/quality/90",
+        "album": "가까운 듯 먼 그대여"
+    },
+    {
+        "rank": "61",
+        "title": "HAPPY",
+        "artist": "DAY6 (데이식스)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/343/942/22/04/422942343_65f79af1_s.jpg?1710725874947/dims/resize/140x140/quality/90",
+        "album": "Fourever"
+    },
+    {
+        "rank": "62",
+        "title": "시작의 아이",
+        "artist": "마크툽 (MAKTUB)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/993/394/32/04/432394993_1813f6adb485e368_s.jpg?1735001508863/dims/resize/140x140/quality/90",
+        "album": "시작의 아이 ハジマリのコ (Starting With You)"
+    },
+    {
+        "rank": "63",
+        "title": "봉숭아",
+        "artist": "PLAVE",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/987/638/45/04/445638987_18767997e9fb565b_s.jpg?1762729998166/dims/resize/140x140/quality/90",
+        "album": "PLBBUU"
+    },
+    {
+        "rank": "64",
+        "title": "Rich Man",
+        "artist": "aespa",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/795/922/42/04/442922795_1861ff3091d9cc43_s.jpg?1756965915421/dims/resize/140x140/quality/90",
+        "album": "Rich Man - The 6th Mini Album"
+    },
+    {
+        "rank": "65",
+        "title": "한 페이지가 될 수 있게",
+        "artist": "DAY6 (데이식스)",
+        "imageURL": "https://cdn.music-flo.com/image/album/931/230/03/04/403230931_5d2be198.jpg?1563156889809/dims/resize/140x140/quality/90",
+        "album": "The Book of Us : Gravity"
+    },
+    {
+        "rank": "66",
+        "title": "Hollywood Action",
+        "artist": "BOYNEXTDOOR",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/588/722/44/04/444722588_18700c2e933a1288_s.jpg?1760920850094/dims/resize/140x140/quality/90",
+        "album": "The Action"
+    },
+    {
+        "rank": "67",
+        "title": "FOCUS",
+        "artist": "Hearts2Hearts (하츠투하츠)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/452/661/43/04/443661452_186f3cd72eab90d8_s.jpg?1760692875928/dims/resize/140x140/quality/90",
+        "album": "FOCUS - The 1st Mini Album"
+    },
+    {
+        "rank": "68",
+        "title": "MY LOVE(2025)",
+        "artist": "이예은",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/509/481/34/04/434481509_1825d454224d44af_o.jpg?1740030289526/dims/resize/140x140/quality/90",
+        "album": "MY LOVE(2025)"
+    },
+    {
+        "rank": "69",
+        "title": "HOME SWEET HOME (feat. 태양, 대성)",
+        "artist": "G-DRAGON",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/669/263/31/04/431263669_1809e67f94174d3c_s.jpg?1732168970509/dims/resize/140x140/quality/90",
+        "album": "HOME SWEET HOME (feat. 태양, 대성)"
+    },
+    {
+        "rank": "70",
+        "title": "REBEL HEART",
+        "artist": "IVE (아이브)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/326/944/32/04/432944326_1820a50c494995a8_s.jpg?1738570929759/dims/resize/140x140/quality/90",
+        "album": "IVE EMPATHY"
+    },
+    {
+        "rank": "71",
+        "title": "슬픈 초대장",
+        "artist": "순순희 (지환)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/376/307/20/04/420307376_6580024b_s.jpg?1702888021464/dims/resize/140x140/quality/90",
+        "album": "슬픈 초대장"
+    },
+    {
+        "rank": "72",
+        "title": "오늘만 I LOVE YOU",
+        "artist": "BOYNEXTDOOR",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/601/777/32/04/432777601_1817f5218c891aff_s.jpg?1736125707370/dims/resize/140x140/quality/90",
+        "album": "오늘만 I LOVE YOU"
+    },
+    {
+        "rank": "73",
+        "title": "How It’s Done",
+        "artist": "HUNTR/X",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/607/552/39/04/439552607_184a9bab2623454b_o.jpg?1750382565141/dims/resize/140x140/quality/90",
+        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
+    },
+    {
+        "rank": "74",
+        "title": "시작의 아이 ❍",
+        "artist": "박다혜",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/982/725/41/04/441725982_1859599f348d583c_o.jpg?1754532071009/dims/resize/140x140/quality/90",
+        "album": "시작의 아이 ❍ ハジマリのコ Starting With You : ♡"
+    },
+    {
+        "rank": "75",
+        "title": "소나기",
+        "artist": "이클립스 (ECLIPSE)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/084/854/23/04/423854084_660f94a0_s.jpg?1712297122430/dims/resize/140x140/quality/90",
+        "album": "선재 업고 튀어 OST Part 1"
+    },
+    {
+        "rank": "76",
+        "title": "0+0",
+        "artist": "한로로",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/185/425/41/04/441425185_18573404ac922bf7_s.jpg?1753927775344/dims/resize/140x140/quality/90",
+        "album": "자몽살구클럽"
+    },
+    {
+        "rank": "77",
+        "title": "청춘만화",
+        "artist": "이무진",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/134/567/29/04/429567134_17fb2ddd57150d57_o.jpg?1728025312378/dims/resize/140x140/quality/90",
+        "album": "만화 (滿花)"
+    },
+    {
+        "rank": "78",
+        "title": "Do It",
+        "artist": "Stray Kids (스트레이 키즈)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/675/043/46/04/446043675_187916d1b8200dce_s.jpg?1763465821182/dims/resize/140x140/quality/90",
+        "album": "DO IT"
+    },
+    {
+        "rank": "79",
+        "title": "Welcome to the Show",
+        "artist": "DAY6 (데이식스)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/343/942/22/04/422942343_65f79af1_s.jpg?1710725874947/dims/resize/140x140/quality/90",
+        "album": "Fourever"
+    },
+    {
+        "rank": "80",
+        "title": "Never Ending Story",
+        "artist": "아이유 (IU)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/496/609/38/04/438609496_1842fe9e01a8b805_s.jpg?1748239561211/dims/resize/140x140/quality/90",
+        "album": "꽃갈피 셋"
+    },
+    {
+        "rank": "81",
+        "title": "STYLE",
+        "artist": "Hearts2Hearts (하츠투하츠)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/462/506/39/04/439506462_1849bf366b910a12_o.jpg?1750140171877/dims/resize/140x140/quality/90",
+        "album": "STYLE"
+    },
+    {
+        "rank": "82",
+        "title": "인사",
+        "artist": "범진",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/649/162/07/04/407162649_656e7432_s.jpg?1701737525812/dims/resize/140x140/quality/90",
+        "album": "인사"
+    },
+    {
+        "rank": "83",
+        "title": "운명 (2025)",
+        "artist": "먼데이 키즈",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/582/154/41/04/441154582_18555cb5da5ef22a_s.jpg?1753409567855/dims/resize/140x140/quality/90",
+        "album": "먼키의 발자국 Vol.1 With 이이경"
+    },
+    {
+        "rank": "84",
+        "title": "너의 모든 순간",
+        "artist": "성시경",
+        "imageURL": "https://cdn.music-flo.com/image/album/938/157/00/04/400157938_5c9f8e8e.jpg?1553960592004/dims/resize/140x140/quality/90",
+        "album": "별에서 온 그대 (SBS 수목드라마) OST - Part.7"
+    },
+    {
+        "rank": "85",
+        "title": "다정히 내 이름을 부르면",
+        "artist": "경서예지",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/640/205/06/04/406205640_60a34fe8_s.jpg?1621315562306/dims/resize/140x140/quality/90",
+        "album": "다정히 내 이름을 부르면 (경서예지 x 전건호)"
+    },
+    {
+        "rank": "86",
+        "title": "JANE DOE",
+        "artist": "Yonezu Kenshi",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/553/388/43/04/443388553_1865a9446750ccd7_o.jpg?1757997341121/dims/resize/140x140/quality/90",
+        "album": "JANE DOE"
+    },
+    {
+        "rank": "87",
+        "title": "Takedown",
+        "artist": "HUNTR/X",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/607/552/39/04/439552607_184a9bab2623454b_o.jpg?1750382565141/dims/resize/140x140/quality/90",
+        "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)"
+    },
+    {
+        "rank": "88",
+        "title": "WICKED",
+        "artist": "ALLDAY PROJECT",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/026/455/39/04/439455026_184b5728a5ad4c04_s.jpg?1750588714258/dims/resize/140x140/quality/90",
+        "album": "FAMOUS"
+    },
+    {
+        "rank": "89",
+        "title": "신선놀음",
+        "artist": "Stray Kids (스트레이 키즈)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/675/043/46/04/446043675_187916d1b8200dce_s.jpg?1763465821182/dims/resize/140x140/quality/90",
+        "album": "DO IT"
+    },
+    {
+        "rank": "90",
+        "title": "Dirty Work",
+        "artist": "aespa",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/740/913/39/04/439913740_184c82651f5675e5_s.jpg?1750917727896/dims/resize/140x140/quality/90",
+        "album": "Dirty Work"
+    },
+    {
+        "rank": "91",
+        "title": "Supernova",
+        "artist": "aespa",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/322/955/24/04/424955322_66543e41_s.jpg?1716796998732/dims/resize/140x140/quality/90",
+        "album": "Armageddon - The 1st Album"
+    },
+    {
+        "rank": "92",
+        "title": "에피소드",
+        "artist": "이무진",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/431/097/20/04/420097431_6577f815_o.jpg?1702361110880/dims/resize/140x140/quality/90",
+        "album": "에피소드"
+    },
+    {
+        "rank": "93",
+        "title": "빌려온 고양이 (Do the Dance)",
+        "artist": "아일릿(ILLIT)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/348/027/39/04/439027348_18488fc472cb1ee4_s.jpg?1749806531204/dims/resize/140x140/quality/90",
+        "album": "bomb"
+    },
+    {
+        "rank": "94",
+        "title": "고민중독",
+        "artist": "QWER",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/081/584/23/04/423584081_66052d8a_s.jpg?1711615372482/dims/resize/140x140/quality/90",
+        "album": "1st Mini Album 'MANITO'"
+    },
+    {
+        "rank": "95",
+        "title": "헤어지자 말해요",
+        "artist": "박재정",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/838/139/13/04/413139838_643f8487_s.jpg?1681884297340/dims/resize/140x140/quality/90",
+        "album": "1집 Alone"
+    },
+    {
+        "rank": "96",
+        "title": "Santa Tell Me",
+        "artist": "Ariana Grande",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/096/825/02/04/402825096_655b7e7a_s.jpg?1700494971021/dims/resize/140x140/quality/90",
+        "album": "Santa Tell Me"
+    },
+    {
+        "rank": "97",
+        "title": "청혼하지 않을 이유를 못 찾았어",
+        "artist": "이무진",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/667/711/23/04/423711667_660a4f18_s.jpg?1711951643443/dims/resize/140x140/quality/90",
+        "album": "청혼하지 않을 이유를 못 찾았어"
+    },
+    {
+        "rank": "98",
+        "title": "HANDS UP",
+        "artist": "MEOVV (미야오)",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/525/364/37/04/437364525_183ebae18a210c29_s.jpg?1747039186273/dims/resize/140x140/quality/90",
+        "album": "MY EYES OPEN VVIDE"
+    },
+    {
+        "rank": "99",
+        "title": "LIKE YOU BETTER",
+        "artist": "프로미스나인",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/656/645/39/04/439645656_184aab2d940cb980_s.jpg?1750399618625/dims/resize/140x140/quality/90",
+        "album": "From Our 20's"
+    },
+    {
+        "rank": "100",
+        "title": "DRIP",
+        "artist": "BABYMONSTER",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/858/427/30/04/430427858_1803b1790ff4da9f_s.jpg?1730421815856/dims/resize/140x140/quality/90",
+        "album": "DRIP"
+    }
+]
